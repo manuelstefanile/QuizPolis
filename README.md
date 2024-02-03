@@ -26,8 +26,10 @@ Ho previsto anche la presenza di imprevisti per rendere il gioco più dinamico.
 
 ![Imprevisto](https://github.com/manuelstefanile/QuizPolis/assets/114852292/93ffd000-4d64-4ccb-9dcb-a403fa87632d)
 
-All'inizio del gioco, sarà possibile scegliere la difficoltà
+All'inizio del gioco, sarà possibile scegliere la difficoltà.
+
 ![Difficolta](https://github.com/manuelstefanile/QuizPolis/assets/114852292/f322b55c-55e6-438d-aa15-8f19ffff1f1a)
 
 Una volta raggiunti i punti, verrà visualizzato un tablet con tutte le domande date.
+
 ![Fine](https://github.com/manuelstefanile/QuizPolis/assets/114852292/6f112815-c822-4cb4-b9c7-b42ac80cea88)
