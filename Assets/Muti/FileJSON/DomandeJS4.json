@@ -1,0 +1,802 @@
+
+{
+  "Verbs": [
+    {
+      "question": "Choose the correct form of the verb 'to choose' in the past perfect continuous tense.",
+      "answer": "had been choosing",
+      "difficulty": 4
+    },
+    {
+      "question": "What is the future perfect continuous tense of 'to run'?",
+      "answer": "will have been running",
+      "difficulty": 4
+    },
+    {
+      "question": "Choose the correct form of the verb 'to forget' in the future perfect continuous tense.",
+      "answer": "will have been forgetting",
+      "difficulty": 4
+    },
+    {
+      "question": "What is the past perfect continuous tense of 'to speak'?",
+      "answer": "had been speaking",
+      "difficulty": 4
+    },
+    {
+      "question": "Choose the correct form of the verb 'to eat' in the future perfect continuous tense.",
+      "answer": "will have been eating",
+      "difficulty": 4
+    },
+    {
+      "question": "What is the present perfect continuous tense of 'to write'?",
+      "answer": "has been writing",
+      "difficulty": 4
+    },
+    {
+      "question": "Choose the correct form of the verb 'to go' in the past perfect continuous tense.",
+      "answer": "had been going",
+      "difficulty": 4
+    },
+    {
+      "question": "What is the future perfect continuous tense of 'to sing'?",
+      "answer": "will have been singing",
+      "difficulty": 4
+    },
+    {
+      "question": "Choose the correct form of the verb 'to swim' in the present perfect continuous tense.",
+      "answer": "has been swimming",
+      "difficulty": 4
+    },
+    {
+      "question": "What is the past perfect continuous tense of 'to read'?",
+      "answer": "had been reading",
+      "difficulty": 4
+    },
+    {
+      "question": "Choose the correct form of the verb 'to write' in the future perfect continuous tense.",
+      "answer": "will have been writing",
+      "difficulty": 4
+    },
+    {
+      "question": "What is the present perfect continuous tense of 'to run'?",
+      "answer": "has been running",
+      "difficulty": 4
+    },
+    {
+      "question": "Choose the correct form of the verb 'to speak' in the past perfect continuous tense.",
+      "answer": "had been speaking",
+      "difficulty": 4
+    },
+    {
+      "question": "What is the future perfect continuous tense of 'to eat'?",
+      "answer": "will have been eating",
+      "difficulty": 4
+    },
+    {
+      "question": "Choose the correct form of the verb 'to go' in the future perfect continuous tense.",
+      "answer": "will have been going",
+      "difficulty": 4
+    },
+    {
+      "question": "What is the past perfect continuous tense of 'to swim'?",
+      "answer": "had been swimming",
+      "difficulty": 4
+    },
+    {
+      "question": "Choose the correct form of the verb 'to read' in the present perfect continuous tense.",
+      "answer": "has been reading",
+      "difficulty": 4
+    },
+    {
+      "question": "What is the future perfect continuous tense of 'to write'?",
+      "answer": "will have been writing",
+      "difficulty": 4
+    },
+    {
+      "question": "Choose the correct form of the verb 'to run' in the past perfect continuous tense.",
+      "answer": "had been running",
+      "difficulty": 4
+    },
+    {
+      "question": "What is the present perfect continuous tense of 'to speak'?",
+      "answer": "has been speaking",
+      "difficulty": 4
+    },
+    {
+      "question": "Choose the correct form of the verb 'to eat' in the past perfect continuous tense.",
+      "answer": "had been eating",
+      "difficulty": 4
+    },
+    {
+      "question": "What is the future perfect continuous tense of 'to swim'?",
+      "answer": "will have been swimming",
+      "difficulty": 4
+    },
+    {
+      "question": "Choose the correct form of the verb 'to write' in the past perfect continuous tense.",
+      "answer": "had been writing",
+      "difficulty": 4
+    },
+    {
+      "question": "What is the present perfect continuous tense of 'to run'?",
+      "answer": "has been running",
+      "difficulty": 4
+    },
+    {
+      "question": "Choose the correct form of the verb 'to speak' in the future perfect continuous tense.",
+      "answer": "will have been speaking",
+      "difficulty": 4
+    },
+    {
+      "question": "What is the past perfect continuous tense of 'to eat'?",
+      "answer": "had been eating",
+      "difficulty": 4
+    },
+    {
+      "question": "Choose the correct form of the verb 'to swim' in the past perfect continuous tense.",
+      "answer": "had been swimming",
+      "difficulty": 4
+    },
+    {
+      "question": "What is the future perfect continuous tense of 'to read'?",
+      "answer": "will have been reading",
+      "difficulty": 4
+    },
+    {
+      "question": "Choose the correct form of the verb 'to run' in the future perfect continuous tense.",
+      "answer": "will have been running",
+      "difficulty": 4
+    },
+    {
+      "question": "What is the past perfect continuous tense of 'to speak'?",
+      "answer": "had been speaking",
+      "difficulty": 4
+    }
+    ],
+
+
+
+
+
+
+
+
+    
+  "Grammar": [
+    {
+      "question": "Article 'an' usage?",
+      "answer": "vowel",
+      "difficulty": 4
+    },
+    {
+      "question": "Appropriate relative pronoun?",
+      "answer": "those",
+      "difficulty": 4
+    },
+    {
+      "question": "Correct coordinating conjunction?",
+      "answer": "but",
+      "difficulty": 4
+    },
+    {
+      "question": "Preposition 'among' usage?",
+      "answer": "three",
+      "difficulty": 4
+    },
+    {
+      "question": "Determiner 'Those' usage?",
+      "answer": "multiple",
+      "difficulty": 4
+    },
+    {
+      "question": "Conjunction 'yet' usage?",
+      "answer": "unexpected",
+      "difficulty": 4
+    },
+    {
+      "question": "Demonstrative pronoun 'That' usage?",
+      "answer": "farther",
+      "difficulty": 4
+    },
+    {
+      "question": "Preposition 'during' usage?",
+      "answer": "time",
+      "difficulty": 4
+    },
+    {
+      "question": "Article 'the' usage?",
+      "answer": "specific",
+      "difficulty": 4
+    },
+    {
+      "question": "Indefinite pronoun 'None' usage?",
+      "answer": "no",
+      "difficulty": 4
+    },
+    {
+      "question": "Conjunction 'nor' usage?",
+      "answer": "negative",
+      "difficulty": 4
+    },
+    {
+      "question": "Determiner 'The' usage?",
+      "answer": "singular",
+      "difficulty": 4
+    },
+    {
+      "question": "Preposition 'beneath' usage?",
+      "answer": "under",
+      "difficulty": 4
+    },
+    {
+      "question": "Relative pronoun 'that' usage?",
+      "answer": "restrictive",
+      "difficulty": 4
+    },
+    {
+      "question": "Conjunction 'or' usage?",
+      "answer": "alternatives",
+      "difficulty": 4
+    },
+    {
+      "question": "Demonstrative pronoun 'These' usage?",
+      "answer": "close",
+      "difficulty": 4
+    },
+    {
+      "question": "Preposition 'over' usage?",
+      "answer": "above",
+      "difficulty": 4
+    },
+    {
+      "question": "Determiner 'These' usage?",
+      "answer": "nearby",
+      "difficulty": 4
+    },
+    {
+      "question": "Conjunction 'provided' usage?",
+      "answer": "if",
+      "difficulty": 4
+    },
+    {
+      "question": "Article 'a' usage?",
+      "answer": "consonant",
+      "difficulty": 4
+    },
+    {
+      "question": "Relative pronoun 'who' usage?",
+      "answer": "subject",
+      "difficulty": 4
+    },
+    {
+      "question": "Correct usage of 'whom'?",
+      "answer": "object",
+      "difficulty": 4
+    },
+    {
+      "question": "Conjunction 'while' usage?",
+      "answer": "simultaneous",
+      "difficulty": 4
+    },
+    {
+      "question": "Proper usage of 'where'?",
+      "answer": "location",
+      "difficulty": 4
+    },
+    {
+      "question": "Conjunction 'as' usage?",
+      "answer": "comparison",
+      "difficulty": 4
+    },
+    {
+      "question": "Demonstrative pronoun 'These' usage?",
+      "answer": "close",
+      "difficulty": 4
+    },
+    {
+      "question": "Preposition 'without' usage?",
+      "answer": "absence",
+      "difficulty": 4
+    },
+    {
+      "question": "Determiner 'This' usage?",
+      "answer": "singular",
+      "difficulty": 4
+    },
+    {
+      "question": "Proper usage of 'therefore'?",
+      "answer": "consequence",
+      "difficulty": 4
+    }
+    ],
+      
+      
+
+
+
+
+
+
+
+
+
+
+  "Geography": [
+    {
+      "question": "Capital of Lithuania?",
+      "answer": "Vilnius",
+      "difficulty": 4
+    },
+    {
+      "question": "Longest river in Italy?",
+      "answer": "Po",
+      "difficulty": 4
+    },
+    {
+      "question": "Largest desert in Asia?",
+      "answer": "Gobi",
+      "difficulty": 4
+    },
+    {
+      "question": "Highest mountain in Africa?",
+      "answer": "Kilimanjaro",
+      "difficulty": 4
+    },
+    {
+      "question": "Country with the most time zones?",
+      "answer": "France",
+      "difficulty": 4
+    },
+    {
+      "question": "Largest island in the Mediterranean Sea?",
+      "answer": "Sicily",
+      "difficulty": 4
+    },
+    {
+      "question": "Second longest river in Europe?",
+      "answer": "Danube",
+      "difficulty": 4
+    },
+    {
+      "question": "Southernmost point of South America?",
+      "answer": "Cape Horn",
+      "difficulty": 4
+    },
+    {
+      "question": "Highest mountain in Europe?",
+      "answer": "Mount Elbrus",
+      "difficulty": 4
+    },
+    {
+      "question": "Largest lake in South America?",
+      "answer": "Lake Titicaca",
+      "difficulty": 4
+    },
+    {
+      "question": "Capital of New Zealand?",
+      "answer": "Wellington",
+      "difficulty": 4
+    },
+    {
+      "question": "Country with the longest coastline?",
+      "answer": "Canada",
+      "difficulty": 4
+    },
+    {
+      "question": "Island country near Australia?",
+      "answer": "New Zealand",
+      "difficulty": 4
+    },
+    {
+      "question": "Largest river in South America?",
+      "answer": "Amazon",
+      "difficulty": 4
+    },
+    {
+      "question": "Deepest lake in the world?",
+      "answer": "Lake Baikal",
+      "difficulty": 4
+    },
+    {
+      "question": "Capital of Chile?",
+      "answer": "Santiago",
+      "difficulty": 4
+    },
+    {
+      "question": "Northernmost point of Africa?",
+      "answer": "Ras ben Sakka",
+      "difficulty": 4
+    },
+    {
+      "question": "Second highest mountain in the world?",
+      "answer": "K2",
+      "difficulty": 4
+    },
+    {
+      "question": "Longest river in Australia?",
+      "answer": "Murray River",
+      "difficulty": 4
+    },
+    {
+      "question": "Capital of Nigeria?",
+      "answer": "Abuja",
+      "difficulty": 4
+    },
+    {
+      "question": "Largest city in South Africa?",
+      "answer": "Johannesburg",
+      "difficulty": 4
+    },
+    {
+      "question": "Highest peak in South America?",
+      "answer": "Aconcagua",
+      "difficulty": 4
+    },
+    {
+      "question": "Largest river in Canada?",
+      "answer": "Mackenzie River",
+      "difficulty": 4
+    },
+    {
+      "question": "Capital of Norway?",
+      "answer": "Oslo",
+      "difficulty": 4
+    },
+    {
+      "question": "Largest island in Indonesia?",
+      "answer": "Sumatra",
+      "difficulty": 4
+    },
+    {
+      "question": "Mountain range in Russia?",
+      "answer": "Ural Mountains",
+      "difficulty": 4
+    },
+    {
+      "question": "Capital of Tanzania?",
+      "answer": "Dodoma",
+      "difficulty": 4
+    },
+    {
+      "question": "Largest lake in Africa?",
+      "answer": "Lake Victoria",
+      "difficulty": 4
+    },
+    {
+      "question": "Country known as the 'Land of Fire and Ice'?",
+      "answer": "Iceland",
+      "difficulty": 4
+    },
+    {
+      "question": "Longest river in France?",
+      "answer": "Loire",
+      "difficulty": 4
+    }
+        
+  ],
+
+
+
+
+
+
+
+
+
+  "Objects": [
+    {
+      "question": "What instrument measures atmospheric pressure?",
+      "answer": "barometer",
+      "difficulty": 4
+    },
+    {
+      "question": "What device measures electric current?",
+      "answer": "ammeter",
+      "difficulty": 4
+    },
+    {
+      "question": "What tool is used to measure angles?",
+      "answer": "protractor",
+      "difficulty": 4
+    },
+    {
+      "question": "What device is used to measure temperature?",
+      "answer": "thermometer",
+      "difficulty": 4
+    },
+    {
+      "question": "What device is used to magnify small objects?",
+      "answer": "microscope",
+      "difficulty": 4
+    },
+    {
+      "question": "What instrument is used to measure the intensity of earthquakes?",
+      "answer": "seismograph",
+      "difficulty": 4
+    },
+    {
+      "question": "What tool is used to measure distances?",
+      "answer": "ruler",
+      "difficulty": 4
+    },
+    {
+      "question": "What device is used to measure time?",
+      "answer": "clock",
+      "difficulty": 4
+    },
+    {
+      "question": "What instrument measures the force of gravity?",
+      "answer": "gravimeter",
+      "difficulty": 4
+    },
+    {
+      "question": "What tool is used to measure the speed of the wind?",
+      "answer": "anemometer",
+      "difficulty": 4
+    },
+    {
+      "question": "What device is used to detect and measure radiation?",
+      "answer": "Geiger counter",
+      "difficulty": 4
+    },
+    {
+      "question": "What instrument is used to measure sound intensity?",
+      "answer": "decibel meter",
+      "difficulty": 4
+    },
+    {
+      "question": "What tool is used to measure the thickness of objects?",
+      "answer": "caliper",
+      "difficulty": 4
+    },
+    {
+      "question": "What device is used to measure electrical resistance?",
+      "answer": "ohmmeter",
+      "difficulty": 4
+    },
+    {
+      "question": "What instrument is used to measure humidity?",
+      "answer": "hygrometer",
+      "difficulty": 4
+    },
+    {
+      "question": "What tool is used to measure light intensity?",
+      "answer": "light meter",
+      "difficulty": 4
+    },
+    {
+      "question": "What device measures electromagnetic radiation?",
+      "answer": "spectrometer",
+      "difficulty": 4
+    },
+    {
+      "question": "What tool is used to measure electrical potential?",
+      "answer": "voltmeter",
+      "difficulty": 4
+    },
+    {
+      "question": "What instrument is used to measure fluid pressure?",
+      "answer": "manometer",
+      "difficulty": 4
+    },
+    {
+      "question": "What device measures the concentration of substances in a solution?",
+      "answer": "spectrophotometer",
+      "difficulty": 4
+    },
+    {
+      "question": "What tool is used to measure the refractive index of substances?",
+      "answer": "refractometer",
+      "difficulty": 4
+    },
+    {
+      "question": "What device measures radioactivity?",
+      "answer": "radiation detector",
+      "difficulty": 4
+    },
+    {
+      "question": "What instrument is used to measure electrical capacitance?",
+      "answer": "capacitance meter",
+      "difficulty": 4
+    },
+    {
+      "question": "What tool is used to measure magnetic fields?",
+      "answer": "magnetometer",
+      "difficulty": 4
+    },
+    {
+      "question": "What device is used to measure the quantity of heat?",
+      "answer": "calorimeter",
+      "difficulty": 4
+    },
+    {
+      "question": "What instrument is used to measure the specific gravity of liquids?",
+      "answer": "hydrometer",
+      "difficulty": 4
+    },
+    {
+      "question": "What tool is used to measure the viscosity of fluids?",
+      "answer": "viscometer",
+      "difficulty": 4
+    },
+    {
+      "question": "What device measures the pH level of a solution?",
+      "answer": "pH meter",
+      "difficulty": 4
+    },
+    {
+      "question": "What instrument is used to measure the color of substances?",
+      "answer": "colorimeter",
+      "difficulty": 4
+    },
+    {
+      "question": "What tool is used to measure the angle of elevation?",
+      "answer": "clinometer",
+      "difficulty": 4
+    }
+  ],
+
+
+
+
+
+
+
+
+
+
+
+
+"Animals": [
+  {
+    "question": "What mammal is known as the 'silent flyer'?",
+    "answer": "owl",
+    "difficulty": 4
+  },
+  {
+    "question": "What marsupial is native to Australia and known for hopping?",
+    "answer": "kangaroo",
+    "difficulty": 4
+  },
+  {
+    "question": "What large mammal is often called the 'king of the jungle'?",
+    "answer": "lion",
+    "difficulty": 4
+  },
+  {
+    "question": "What amphibian has a rough, bumpy skin and is known for its croaking sound?",
+    "answer": "frog",
+    "difficulty": 4
+  },
+  {
+    "question": "What large bird has a long neck and legs, and is known for its speed?",
+    "answer": "ostrich",
+    "difficulty": 4
+  },
+  {
+    "question": "What marine mammal is the largest of its kind and feeds on krill?",
+    "answer": "blue whale",
+    "difficulty": 4
+  },
+  {
+    "question": "What primate is the largest and often referred to as 'gentle giants'?",
+    "answer": "gorilla",
+    "difficulty": 4
+  },
+  {
+    "question": "What large reptile is known for its powerful jaws and often seen in rivers?",
+    "answer": "crocodile",
+    "difficulty": 4
+  },
+  {
+    "question": "What bird has the largest wingspan of any living bird?",
+    "answer": "albatross",
+    "difficulty": 4
+  },
+  {
+    "question": "What animal, native to Africa, is known for its black and white stripes?",
+    "answer": "zebra",
+    "difficulty": 4
+  },
+  {
+    "question": "What large cat is known for its distinctive black spots?",
+    "answer": "leopard",
+    "difficulty": 4
+  },
+  {
+    "question": "What primate species are known for their reddish-brown fur and long arms?",
+    "answer": "orangutan",
+    "difficulty": 4
+  },
+  {
+    "question": "What bird species are known for their ability to mimic sounds?",
+    "answer": "parrot",
+    "difficulty": 4
+  },
+  {
+    "question": "What big cat is known for its distinctive mane?",
+    "answer": "lion",
+    "difficulty": 4
+  },
+  {
+    "question": "What large marine animal is known for its white, beluga-like appearance?",
+    "answer": "narwhal",
+    "difficulty": 4
+  },
+  {
+    "question": "What nocturnal mammal has the ability to turn its head almost 360 degrees?",
+    "answer": "owl",
+    "difficulty": 4
+  },
+  {
+    "question": "What reptile has a hard shell covering its body?",
+    "answer": "turtle",
+    "difficulty": 4
+  },
+  {
+    "question": "What mammal is known for its long snout and sticky tongue?",
+    "answer": "anteater",
+    "difficulty": 4
+  },
+  {
+    "question": "What large mammal is known for its distinctive black and white fur?",
+    "answer": "panda",
+    "difficulty": 4
+  },
+  {
+    "question": "What bird has the largest wingspan among living birds?",
+    "answer": "albatross",
+    "difficulty": 4
+  },
+  {
+    "question": "What marine mammal is known for its playful behavior and intelligence?",
+    "answer": "dolphin",
+    "difficulty": 4
+  },
+  {
+    "question": "What large mammal is known for its long, curved tusks?",
+    "answer": "elephant",
+    "difficulty": 4
+  },
+  {
+    "question": "What reptile is known for changing its skin color to blend with surroundings?",
+    "answer": "chameleon",
+    "difficulty": 4
+  },
+  {
+    "question": "What primate is the largest living member of the ape family?",
+    "answer": "gorilla",
+    "difficulty": 4
+  },
+  {
+    "question": "What bird is known for its ability to imitate human speech?",
+    "answer": "parrot",
+    "difficulty": 4
+  },
+  {
+    "question": "What marsupial is native to North America and has a prehensile tail?",
+    "answer": "opossum",
+    "difficulty": 4
+  },
+  {
+    "question": "What mammal is known for its leathery shell and long lifespan?",
+    "answer": "tortoise",
+    "difficulty": 4
+  },
+  {
+    "question": "What bird is the largest living species?",
+    "answer": "ostrich",
+    "difficulty": 4
+  },
+  {
+    "question": "What mammal is known for hanging upside down in trees?",
+    "answer": "bat",
+    "difficulty": 4
+  },
+  {
+    "question": "What marine mammal is known for its long, tusk-like teeth?",
+    "answer": "walrus",
+    "difficulty": 4
+  }
+  ]
+}
+

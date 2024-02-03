@@ -1,0 +1,1352 @@
+
+{
+  "Verbs": [
+    {
+      "question": "Choose the correct form of the verb 'to swim' in the past tense.",
+      "answer": "swam",
+      "A": "swim",
+      "B": "swimming",
+      "C": "swum",
+      "D": "swam",
+      "difficulty": 1
+    },
+    {
+      "question": "Identify the correct form of the verb 'to read' in the present continuous tense.",
+      "answer": "reading",
+      "A": "read",
+      "B": "reading",
+      "C": "reads",
+      "D": "readed",
+      "difficulty": 1
+    },
+    {
+      "question": "Choose the correct form of the verb 'to write' in the past continuous tense.",
+      "answer": "was writing",
+      "A": "wrote",
+      "B": "writing",
+      "C": "written",
+      "D": "was writing",
+      "difficulty": 1
+    },
+    {
+      "question": "Identify the correct form of the verb 'to sleep' in the present tense for 'she'.",
+      "answer": "sleeps",
+      "A": "sleeps",
+      "B": "sleeping",
+      "C": "slept",
+      "D": "sleep",
+      "difficulty": 1
+    },
+    {
+      "question": "Choose the correct form of the verb 'to dance' in the past tense.",
+      "answer": "danced",
+      "A": "danced",
+      "B": "dance",
+      "C": "dancing",
+      "D": "done",
+      "difficulty": 1
+    },
+    {
+      "question": "Identify the correct form of the verb 'to sing' in the present continuous tense.",
+      "answer": "singing",
+      "A": "sing",
+      "B": "sings",
+      "C": "singing",
+      "D": "sang",
+      "difficulty": 1
+    },
+    {
+      "question": "Choose the correct form of the verb 'to speak' in the past continuous tense.",
+      "answer": "was speaking",
+      "A": "speaks",
+      "B": "speaking",
+      "C": "spoken",
+      "D": "was speaking",
+      "difficulty": 1
+    },
+    {
+      "question": "Identify the correct form of the verb 'to play' in the present tense for 'they'.",
+      "answer": "play",
+      "A": "plays",
+      "B": "playing",
+      "C": "played",
+      "D": "play",
+      "difficulty": 1
+    },
+    {
+      "question": "Choose the correct form of the verb 'to jump' in the past tense.",
+      "answer": "jumped",
+      "A": "jumped",
+      "B": "jumps",
+      "C": "jumping",
+      "D": "jump",
+      "difficulty": 1
+    },
+    {
+      "question": "Identify the correct form of the verb 'to cook' in the present continuous tense.",
+      "answer": "cooking",
+      "A": "cooks",
+      "B": "cooked",
+      "C": "cooking",
+      "D": "cook",
+      "difficulty": 1
+    },
+    {
+      "question": "Choose the correct form of the verb 'to drink' in the past tense.",
+      "answer": "drank",
+      "A": "drinked",
+      "B": "drunk",
+      "C": "drinks",
+      "D": "drank",
+      "difficulty": 1
+    },
+    {
+      "question": "Identify the correct form of the verb 'to teach' in the present continuous tense.",
+      "answer": "teaching",
+      "A": "teach",
+      "B": "teaches",
+      "C": "teaching",
+      "D": "taught",
+      "difficulty": 1
+    },
+    {
+      "question": "Choose the correct form of the verb 'to buy' in the past continuous tense.",
+      "answer": "was buying",
+      "A": "bought",
+      "B": "buying",
+      "C": "buys",
+      "D": "was buying",
+      "difficulty": 1
+    },
+    {
+      "question": "Identify the correct form of the verb 'to run' in the present tense for 'he'.",
+      "answer": "runs",
+      "A": "run",
+      "B": "running",
+      "C": "ran",
+      "D": "runs",
+      "difficulty": 1
+    },
+    {
+      "question": "Choose the correct form of the verb 'to sing' in the past tense.",
+      "answer": "sang",
+      "A": "sang",
+      "B": "sing",
+      "C": "singing",
+      "D": "sung",
+      "difficulty": 1
+    },
+    {
+      "question": "Identify the correct form of the verb 'to sleep' in the past continuous tense.",
+      "answer": "was sleeping",
+      "A": "sleeps",
+      "B": "slept",
+      "C": "sleeping",
+      "D": "was sleeping",
+      "difficulty": 1
+    },
+    {
+      "question": "Choose the correct form of the verb 'to speak' in the present tense for 'she'.",
+      "answer": "speaks",
+      "A": "speaks",
+      "B": "speaking",
+      "C": "spoke",
+      "D": "spoken",
+      "difficulty": 1
+    },
+    {
+      "question": "Identify the correct form of the verb 'to write' in the past tense.",
+      "answer": "wrote",
+      "A": "written",
+      "B": "wrote",
+      "C": "writing",
+      "D": "writed",
+      "difficulty": 1
+    },
+    {
+      "question": "Choose the correct form of the verb 'to eat' in the present continuous tense.",
+      "answer": "eating",
+      "A": "ate",
+      "B": "eaten",
+      "C": "eating",
+      "D": "eat",
+      "difficulty": 1
+    },
+    {
+      "question": "Identify the correct form of the verb 'to dance' in the past tense.",
+      "answer": "danced",
+      "A": "dancing",
+      "B": "dance",
+      "C": "danced",
+      "D": "done",
+      "difficulty": 1
+    },
+    {
+      "question": "Choose the correct form of the verb 'to take' in the past tense.",
+      "answer": "took",
+      "A": "take",
+      "B": "taking",
+      "C": "taken",
+      "D": "took",
+      "difficulty": 1
+    },
+    {
+      "question": "Identify the correct form of the verb 'to speak' in the present continuous tense.",
+      "answer": "speaking",
+      "A": "speaks",
+      "B": "spoken",
+      "C": "speaking",
+      "D": "spoke",
+      "difficulty": 1
+    },
+    {
+      "question": "Choose the correct form of the verb 'to see' in the past continuous tense.",
+      "answer": "was seeing",
+      "A": "saw",
+      "B": "seeing",
+      "C": "seen",
+      "D": "was seeing",
+      "difficulty": 1
+    },
+    {
+      "question": "Identify the correct form of the verb 'to eat' in the present tense for 'they'.",
+      "answer": "eat",
+      "A": "ate",
+      "B": "eating",
+      "C": "eats",
+      "D": "eat",
+      "difficulty": 1
+    },
+    {
+      "question": "Choose the correct form of the verb 'to go' in the past tense.",
+      "answer": "went",
+      "A": "going",
+      "B": "go",
+      "C": "went",
+      "D": "gone",
+      "difficulty": 1
+    },
+    {
+      "question": "Identify the correct form of the verb 'to write' in the present continuous tense.",
+      "answer": "writing",
+      "A": "writes",
+      "B": "written",
+      "C": "writing",
+      "D": "wrote",
+      "difficulty": 1
+    },
+    {
+      "question": "Choose the correct form of the verb 'to drink' in the past continuous tense.",
+      "answer": "was drinking",
+      "A": "drinked",
+      "B": "drank",
+      "C": "drinking",
+      "D": "was drinking",
+      "difficulty": 1
+    },
+    {
+      "question": "Identify the correct form of the verb 'to run' in the present tense for 'he'.",
+      "answer": "runs",
+      "A": "ran",
+      "B": "running",
+      "C": "run",
+      "D": "runs",
+      "difficulty": 1
+    },
+    {
+      "question": "Choose the correct form of the verb 'to see' in the past tense.",
+      "answer": "saw",
+      "A": "seen",
+      "B": "saw",
+      "C": "seeing",
+      "D": "see",
+      "difficulty": 1
+    },
+    {
+      "question": "Identify the correct form of the verb 'to take' in the present continuous tense.",
+      "answer": "taking",
+      "A": "took",
+      "B": "takes",
+      "C": "taking",
+      "D": "taken",
+      "difficulty": 1
+    },
+    {
+      "question": "Choose the correct form of the verb 'to sleep' in the past tense.",
+      "answer": "slept",
+      "A": "sleeps",
+      "B": "sleep",
+      "C": "slept",
+      "D": "sleeping",
+      "difficulty": 1
+    },
+    {
+      "question": "Identify the correct form of the verb 'to run' in the past continuous tense.",
+      "answer": "was running",
+      "A": "ran",
+      "B": "running",
+      "C": "run",
+      "D": "was running",
+      "difficulty": 1
+    },
+    {
+      "question": "Choose the correct form of the verb 'to speak' in the present tense for 'they'.",
+      "answer": "speak",
+      "A": "speaks",
+      "B": "speaking",
+      "C": "speak",
+      "D": "spoken",
+      "difficulty": 1
+    },
+    {
+      "question": "Identify the correct form of the verb 'to see' in the present tense for 'she'.",
+      "answer": "sees",
+      "A": "sees",
+      "B": "seeing",
+      "C": "saw",
+      "D": "seen",
+      "difficulty": 1
+    }
+    ],
+
+
+
+
+
+
+
+
+    
+    "Grammar": [
+      {
+        "question": "Identify the correct indefinite article for the word 'umbrella'.",
+        "answer": "an",
+        "A": "the",
+        "B": "an",
+        "C": "a",
+        "D": "some",
+        "difficulty": 1
+      },
+      {
+        "question": "Select the correct plural form of the word 'child'.",
+        "answer": "children",
+        "A": "childs",
+        "B": "children",
+        "C": "childes",
+        "D": "child",
+        "difficulty": 1
+      },
+      {
+        "question": "Choose the correct possessive pronoun for the plural noun 'cats'.",
+        "answer": "their",
+        "A": "our",
+        "B": "its",
+        "C": "his",
+        "D": "their",
+        "difficulty": 1
+      },
+      {
+        "question": "Identify the correct preposition to complete the sentence: 'The book is ___ the table.'",
+        "answer": "on",
+        "A": "above",
+        "B": "in",
+        "C": "on",
+        "D": "under",
+        "difficulty": 1
+      },
+      {
+        "question": "Choose the correct conjunction to connect these two sentences: 'She likes to dance. He likes to sing.'",
+        "answer": "and",
+        "A": "but",
+        "B": "or",
+        "C": "and",
+        "D": "so",
+        "difficulty": 1
+      },
+      {
+        "question": "Select the correct demonstrative pronoun for a singular noun far from both the speaker and the listener.",
+        "answer": "that",
+        "A": "this",
+        "B": "these",
+        "C": "that",
+        "D": "those",
+        "difficulty": 1
+      },
+      {
+        "question": "Choose the correct form of the adjective 'big' in its comparative form.",
+        "answer": "bigger",
+        "A": "biggest",
+        "B": "big",
+        "C": "bigger",
+        "D": "more big",
+        "difficulty": 1
+      },
+      {
+        "question": "Identify the correct conjunction in the sentence: 'I will go to the park if it stops raining.'",
+        "answer": "if",
+        "A": "and",
+        "B": "if",
+        "C": "or",
+        "D": "but",
+        "difficulty": 1
+      },
+      {
+        "question": "Choose the correct form of the adverb 'quickly' in its comparative form.",
+        "answer": "more quickly",
+        "A": "quicklyest",
+        "B": "quicker",
+        "C": "more quick",
+        "D": "more quickly",
+        "difficulty": 1
+      },
+      {
+        "question": "Identify the correct conjunction to connect these two sentences: 'She wanted to go out. It was raining.'",
+        "answer": "but",
+        "A": "and",
+        "B": "but",
+        "C": "or",
+        "D": "so",
+        "difficulty": 1
+      },
+      {
+        "question": "Select the correct plural form of the word 'mouse'.",
+        "answer": "mice",
+        "A": "mouses",
+        "B": "mices",
+        "C": "mouse",
+        "D": "mice",
+        "difficulty": 1
+      },
+      {
+        "question": "Choose the correct possessive pronoun for the singular noun 'dog'.",
+        "answer": "its",
+        "A": "it",
+        "B": "its",
+        "C": "it's",
+        "D": "its'",
+        "difficulty": 1
+      },
+      {
+        "question": "Identify the correct preposition to complete the sentence: 'The cat is ___ the chair.'",
+        "answer": "on",
+        "A": "above",
+        "B": "in",
+        "C": "on",
+        "D": "under",
+        "difficulty": 1
+      },
+      {
+        "question": "Choose the correct conjunction to connect these two sentences: 'He likes tea. She likes coffee.'",
+        "answer": "and",
+        "A": "but",
+        "B": "or",
+        "C": "and",
+        "D": "so",
+        "difficulty": 1
+      },
+      {
+        "question": "Select the correct demonstrative pronoun for a singular noun near the speaker.",
+        "answer": "this",
+        "A": "this",
+        "B": "that",
+        "C": "these",
+        "D": "those",
+        "difficulty": 1
+      },
+      {
+        "question": "Choose the correct form of the adjective 'happy' in its comparative form.",
+        "answer": "happier",
+        "A": "happy",
+        "B": "happier",
+        "C": "happiest",
+        "D": "more happy",
+        "difficulty": 1
+      },
+      {
+        "question": "Identify the correct conjunction in the sentence: 'I will go shopping after I finish work.'",
+        "answer": "after",
+        "A": "and",
+        "B": "if",
+        "C": "after",
+        "D": "or",
+        "difficulty": 1
+      },
+      {
+        "question": "Choose the correct form of the adverb 'slowly' in its comparative form.",
+        "answer": "more slowly",
+        "A": "slowlily",
+        "B": "slower",
+        "C": "more slow",
+        "D": "more slowly",
+        "difficulty": 1
+      },
+      {
+        "question": "Identify the correct conjunction to connect these two sentences: 'He studied hard. He failed the test.'",
+        "answer": "but",
+        "A": "and",
+        "B": "but",
+        "C": "or",
+        "D": "so",
+        "difficulty": 1
+      },
+      {
+        "question": "Select the correct plural form of the word 'woman'.",
+        "answer": "women",
+        "A": "womans",
+        "B": "women",
+        "C": "woman",
+        "D": "womens",
+        "difficulty": 1
+      },
+      {
+        "question": "Identify the correct plural form of the word 'goose'.",
+        "answer": "geese",
+        "A": "gooses",
+        "B": "geese",
+        "C": "goose",
+        "D": "geeses",
+        "difficulty": 1
+      },
+      {
+        "question": "Choose the correct possessive pronoun for the plural noun 'cars'.",
+        "answer": "their",
+        "A": "our",
+        "B": "its",
+        "C": "his",
+        "D": "their",
+        "difficulty": 1
+      },
+      {
+        "question": "Identify the correct preposition to complete the sentence: 'The book is ___ the shelf.'",
+        "answer": "on",
+        "A": "above",
+        "B": "in",
+        "C": "on",
+        "D": "under",
+        "difficulty": 1
+      },
+      {
+        "question": "Choose the correct conjunction to connect these two sentences: 'She likes pizza. He likes pasta.'",
+        "answer": "and",
+        "A": "but",
+        "B": "or",
+        "C": "and",
+        "D": "so",
+        "difficulty": 1
+      },
+      {
+        "question": "Select the correct demonstrative pronoun for a plural noun near the speaker.",
+        "answer": "these",
+        "A": "this",
+        "B": "that",
+        "C": "these",
+        "D": "those",
+        "difficulty": 1
+      },
+      {
+        "question": "Choose the correct form of the adjective 'beautiful' in its comparative form.",
+        "answer": "more beautiful",
+        "A": "beautifuler",
+        "B": "beautiful",
+        "C": "more beautiful",
+        "D": "beautifuller",
+        "difficulty": 1
+      },
+      {
+        "question": "Identify the correct conjunction in the sentence: 'I want to go shopping unless it rains.'",
+        "answer": "unless",
+        "A": "and",
+        "B": "if",
+        "C": "unless",
+        "D": "or",
+        "difficulty": 1
+      },
+      {
+        "question": "Choose the correct form of the adverb 'fast' in its comparative form.",
+        "answer": "faster",
+        "A": "fastest",
+        "B": "fast",
+        "C": "faster",
+        "D": "more fast",
+        "difficulty": 1
+      },
+      {
+        "question": "Identify the correct conjunction to connect these two sentences: 'She arrived late. She missed the bus.'",
+        "answer": "so",
+        "A": "and",
+        "B": "but",
+        "C": "or",
+        "D": "so",
+        "difficulty": 1
+      },
+      {
+        "question": "Select the correct plural form of the word 'child'.",
+        "answer": "children",
+        "A": "childs",
+        "B": "child",
+        "C": "children",
+        "D": "childes",
+        "difficulty": 1
+      }
+      ],
+      
+      
+
+
+
+
+
+
+
+
+
+
+      "Geography": [
+        {
+          "question": "What is the capital of France?",
+          "answer": "Paris",
+          "A": "London",
+          "B": "Berlin",
+          "C": "Paris",
+          "D": "Madrid",
+          "difficulty": 1
+        },
+        {
+          "question": "Which continent is known as the 'Land Down Under'?",
+          "answer": "Australia",
+          "A": "Africa",
+          "B": "South America",
+          "C": "Australia",
+          "D": "Asia",
+          "difficulty": 1
+        },
+        {
+          "question": "What is the longest river in the world?",
+          "answer": "Nile",
+          "A": "Amazon",
+          "B": "Mississippi",
+          "C": "Nile",
+          "D": "Yangtze",
+          "difficulty": 1
+        },
+        {
+          "question": "Which country is known as 'The Land of the Rising Sun'?",
+          "answer": "Japan",
+          "A": "China",
+          "B": "India",
+          "C": "Japan",
+          "D": "South Korea",
+          "difficulty": 1
+        },
+        {
+          "question": "What is the largest desert in the world?",
+          "answer": "Sahara",
+          "A": "Arctic",
+          "B": "Gobi",
+          "C": "Sahara",
+          "D": "Kalahari",
+          "difficulty": 1
+        },
+        {
+          "question": "Which mountain range is located in South America?",
+          "answer": "Andes",
+          "A": "Rocky Mountains",
+          "B": "Himalayas",
+          "C": "Andes",
+          "D": "Alps",
+          "difficulty": 1
+        },
+        {
+          "question": "Which ocean is the largest in the world?",
+          "answer": "Pacific",
+          "A": "Atlantic",
+          "B": "Indian",
+          "C": "Pacific",
+          "D": "Arctic",
+          "difficulty": 1
+        },
+        {
+          "question": "What is the smallest country in the world?",
+          "answer": "Vatican City",
+          "A": "Monaco",
+          "B": "Nauru",
+          "C": "Vatican City",
+          "D": "Maldives",
+          "difficulty": 1
+        },
+        {
+          "question": "Which country is known as the 'Land of the Midnight Sun'?",
+          "answer": "Norway",
+          "A": "Finland",
+          "B": "Canada",
+          "C": "Norway",
+          "D": "Sweden",
+          "difficulty": 1
+        },
+        {
+          "question": "What is the largest country by land area?",
+          "answer": "Russia",
+          "A": "Canada",
+          "B": "China",
+          "C": "USA",
+          "D": "Russia",
+          "difficulty": 1
+        },
+        {
+          "question": "Which country is known as 'The Land of the Rising Sun'?",
+          "answer": "Japan",
+          "A": "China",
+          "B": "India",
+          "C": "Japan",
+          "D": "South Korea",
+          "difficulty": 1
+        },
+        {
+          "question": "What is the capital of Spain?",
+          "answer": "Madrid",
+          "A": "Barcelona",
+          "B": "Madrid",
+          "C": "Seville",
+          "D": "Valencia",
+          "difficulty": 1
+        },
+        {
+          "question": "Which river runs through Egypt?",
+          "answer": "Nile",
+          "A": "Amazon",
+          "B": "Mississippi",
+          "C": "Nile",
+          "D": "Yangtze",
+          "difficulty": 1
+        },
+        {
+          "question": "Which continent is Mount Kilimanjaro located in?",
+          "answer": "Africa",
+          "A": "Europe",
+          "B": "Africa",
+          "C": "Asia",
+          "D": "South America",
+          "difficulty": 1
+        },
+        {
+          "question": "What is the tallest mountain in the world?",
+          "answer": "Mount Everest",
+          "A": "Mount Kilimanjaro",
+          "B": "Mount Everest",
+          "C": "K2",
+          "D": "Matterhorn",
+          "difficulty": 1
+        },
+        {
+          "question": "Which ocean is to the east of the United States?",
+          "answer": "Atlantic",
+          "A": "Indian",
+          "B": "Pacific",
+          "C": "Arctic",
+          "D": "Atlantic",
+          "difficulty": 1
+        },
+        {
+          "question": "What is the largest island in the world?",
+          "answer": "Greenland",
+          "A": "Australia",
+          "B": "Madagascar",
+          "C": "Greenland",
+          "D": "New Guinea",
+          "difficulty": 1
+        },
+        {
+          "question": "Which country is Istanbul located in?",
+          "answer": "Turkey",
+          "A": "Greece",
+          "B": "Turkey",
+          "C": "Bulgaria",
+          "D": "Romania",
+          "difficulty": 1
+        },
+        {
+          "question": "What is the capital of Canada?",
+          "answer": "Ottawa",
+          "A": "Vancouver",
+          "B": "Toronto",
+          "C": "Ottawa",
+          "D": "Montreal",
+          "difficulty": 1
+        },
+        {
+          "question": "Which sea separates Europe and Africa?",
+          "answer": "Mediterranean Sea",
+          "A": "Caribbean Sea",
+          "B": "Mediterranean Sea",
+          "C": "Red Sea",
+          "D": "Black Sea",
+          "difficulty": 1
+        },
+        {
+          "question": "Which country is known as 'The Land of the Rising Sun'?",
+          "answer": "Japan",
+          "A": "China",
+          "B": "India",
+          "C": "Japan",
+          "D": "South Korea",
+          "difficulty": 1
+        },
+        {
+          "question": "What is the capital of Spain?",
+          "answer": "Madrid",
+          "A": "Barcelona",
+          "B": "Madrid",
+          "C": "Seville",
+          "D": "Valencia",
+          "difficulty": 1
+        },
+        {
+          "question": "Which river runs through Egypt?",
+          "answer": "Nile",
+          "A": "Amazon",
+          "B": "Mississippi",
+          "C": "Nile",
+          "D": "Yangtze",
+          "difficulty": 1
+        },
+        {
+          "question": "Which continent is Mount Kilimanjaro located in?",
+          "answer": "Africa",
+          "A": "Europe",
+          "B": "Africa",
+          "C": "Asia",
+          "D": "South America",
+          "difficulty": 1
+        },
+        {
+          "question": "What is the tallest mountain in the world?",
+          "answer": "Mount Everest",
+          "A": "Mount Kilimanjaro",
+          "B": "Mount Everest",
+          "C": "K2",
+          "D": "Matterhorn",
+          "difficulty": 1
+        },
+        {
+          "question": "Which ocean is to the east of the United States?",
+          "answer": "Atlantic",
+          "A": "Indian",
+          "B": "Pacific",
+          "C": "Arctic",
+          "D": "Atlantic",
+          "difficulty": 1
+        },
+        {
+          "question": "What is the largest island in the world?",
+          "answer": "Greenland",
+          "A": "Australia",
+          "B": "Madagascar",
+          "C": "Greenland",
+          "D": "New Guinea",
+          "difficulty": 1
+        },
+        {
+          "question": "Which country is Istanbul located in?",
+          "answer": "Turkey",
+          "A": "Greece",
+          "B": "Turkey",
+          "C": "Bulgaria",
+          "D": "Romania",
+          "difficulty": 1
+        },
+        {
+          "question": "What is the capital of Canada?",
+          "answer": "Ottawa",
+          "A": "Vancouver",
+          "B": "Toronto",
+          "C": "Ottawa",
+          "D": "Montreal",
+          "difficulty": 1
+        },
+        {
+          "question": "Which sea separates Europe and Africa?",
+          "answer": "Mediterranean Sea",
+          "A": "Caribbean Sea",
+          "B": "Mediterranean Sea",
+          "C": "Red Sea",
+          "D": "Black Sea",
+          "difficulty": 1
+        }
+        ],
+
+
+
+
+
+
+
+
+
+        "Objects": [
+          {
+            "question": "What do you use to write on paper?",
+            "answer": "pen",
+            "A": "pen",
+            "B": "book",
+            "C": "phone",
+            "D": "keyboard",
+            "difficulty": 1
+          },
+          {
+            "question": "What do you sleep on at night?",
+            "answer": "bed",
+            "A": "pillow",
+            "B": "blanket",
+            "C": "bed",
+            "D": "chair",
+            "difficulty": 1
+          },
+          {
+            "question": "What do you use to open doors?",
+            "answer": "key",
+            "A": "lock",
+            "B": "key",
+            "C": "knob",
+            "D": "button",
+            "difficulty": 1
+          },
+          {
+            "question": "What do you sit on when watching TV?",
+            "answer": "couch",
+            "A": "couch",
+            "B": "table",
+            "C": "chair",
+            "D": "mat",
+            "difficulty": 1
+          },
+          {
+            "question": "What do you use to see things far away?",
+            "answer": "binoculars",
+            "A": "telescope",
+            "B": "glasses",
+            "C": "binoculars",
+            "D": "microscope",
+            "difficulty": 1
+          },
+          {
+            "question": "What do you use to listen to music?",
+            "answer": "headphones",
+            "A": "speakers",
+            "B": "earplugs",
+            "C": "headphones",
+            "D": "earphones",
+            "difficulty": 1
+          },
+          {
+            "question": "What do you wear to protect your feet?",
+            "answer": "shoes",
+            "A": "shoes",
+            "B": "socks",
+            "C": "sandals",
+            "D": "slippers",
+            "difficulty": 1
+          },
+          {
+            "question": "What do you use to take pictures?",
+            "answer": "camera",
+            "A": "camera",
+            "B": "phone",
+            "C": "tablet",
+            "D": "laptop",
+            "difficulty": 1
+          },
+          {
+            "question": "What do you use to carry things when shopping?",
+            "answer": "bag",
+            "A": "bag",
+            "B": "basket",
+            "C": "cart",
+            "D": "box",
+            "difficulty": 1
+          },
+          {
+            "question": "What do you use to protect your head?",
+            "answer": "hat",
+            "A": "cap",
+            "B": "hat",
+            "C": "helmet",
+            "D": "headband",
+            "difficulty": 1
+          },
+          {
+            "question": "What do you use to write on a chalkboard?",
+            "answer": "chalk",
+            "A": "pen",
+            "B": "pencil",
+            "C": "chalk",
+            "D": "marker",
+            "difficulty": 1
+          },
+          {
+            "question": "What do you use to cut paper?",
+            "answer": "scissors",
+            "A": "knife",
+            "B": "scissors",
+            "C": "blade",
+            "D": "cutter",
+            "difficulty": 1
+          },
+          {
+            "question": "What do you use to see the time?",
+            "answer": "watch",
+            "A": "clock",
+            "B": "watch",
+            "C": "alarm",
+            "D": "timer",
+            "difficulty": 1
+          },
+          {
+            "question": "What do you use to store food in the kitchen?",
+            "answer": "container",
+            "A": "container",
+            "B": "bag",
+            "C": "wrap",
+            "D": "tin",
+            "difficulty": 1
+          },
+          {
+            "question": "What do you use to clean your teeth?",
+            "answer": "toothbrush",
+            "A": "comb",
+            "B": "toothpaste",
+            "C": "toothbrush",
+            "D": "floss",
+            "difficulty": 1
+          },
+          {
+            "question": "What do you use to measure temperature?",
+            "answer": "thermometer",
+            "A": "scale",
+            "B": "thermometer",
+            "C": "gauge",
+            "D": "meter",
+            "difficulty": 1
+          },
+          {
+            "question": "What do you use to water plants?",
+            "answer": "watering can",
+            "A": "hose",
+            "B": "bucket",
+            "C": "watering can",
+            "D": "sprinkler",
+            "difficulty": 1
+          },
+          {
+            "question": "What do you use to control the TV?",
+            "answer": "remote control",
+            "A": "remote control",
+            "B": "switch",
+            "C": "dial",
+            "D": "button",
+            "difficulty": 1
+          },
+          {
+            "question": "What do you use to listen to distant sounds?",
+            "answer": "telescope",
+            "A": "microphone",
+            "B": "telescope",
+            "C": "headphones",
+            "D": "speaker",
+            "difficulty": 1
+          },
+          {
+            "question": "What do you use to remove dust?",
+            "answer": "duster",
+            "A": "cloth",
+            "B": "vacuum",
+            "C": "duster",
+            "D": "brush",
+            "difficulty": 1
+          }
+          ],
+
+
+
+
+
+
+
+
+
+
+
+
+          "Animals": [
+            {
+              "question": "What is the world's largest land animal?",
+              "answer": "elephant",
+              "A": "giraffe",
+              "B": "elephant",
+              "C": "lion",
+              "D": "rhinoceros",
+              "difficulty": 1
+            },
+            {
+              "question": "What is the only mammal capable of true flight?",
+              "answer": "bat",
+              "A": "bat",
+              "B": "bird",
+              "C": "penguin",
+              "D": "squirrel",
+              "difficulty": 1
+            },
+            {
+              "question": "Which animal can change its color to match its surroundings?",
+              "answer": "chameleon",
+              "A": "chameleon",
+              "B": "iguana",
+              "C": "komodo dragon",
+              "D": "gecko",
+              "difficulty": 1
+            },
+            {
+              "question": "What do you call a baby cat?",
+              "answer": "kitten",
+              "A": "puppy",
+              "B": "kitten",
+              "C": "calf",
+              "D": "cub",
+              "difficulty": 1
+            },
+            {
+              "question": "What is the fastest animal on land?",
+              "answer": "cheetah",
+              "A": "lion",
+              "B": "cheetah",
+              "C": "gazelle",
+              "D": "rhinoceros",
+              "difficulty": 1
+            },
+            {
+              "question": "Which bird is known for its long neck?",
+              "answer": "ostrich",
+              "A": "penguin",
+              "B": "ostrich",
+              "C": "eagle",
+              "D": "flamingo",
+              "difficulty": 1
+            },
+            {
+              "question": "What is a young sheep called?",
+              "answer": "lamb",
+              "A": "calf",
+              "B": "lamb",
+              "C": "foal",
+              "D": "piglet",
+              "difficulty": 1
+            },
+            {
+              "question": "Which animal is known for its humps on its back?",
+              "answer": "camel",
+              "A": "horse",
+              "B": "camel",
+              "C": "llama",
+              "D": "donkey",
+              "difficulty": 1
+            },
+            {
+              "question": "What is the natural habitat of a polar bear?",
+              "answer": "Arctic",
+              "A": "Savannah",
+              "B": "Tundra",
+              "C": "Arctic",
+              "D": "Desert",
+              "difficulty": 1
+            },
+            {
+              "question": "Which animal is known for its ability to climb trees?",
+              "answer": "monkey",
+              "A": "lion",
+              "B": "monkey",
+              "C": "elephant",
+              "D": "giraffe",
+              "difficulty": 1
+            },
+            {
+              "question": "Which animal is often associated with hopping instead of walking?",
+              "answer": "kangaroo",
+              "A": "giraffe",
+              "B": "kangaroo",
+              "C": "elephant",
+              "D": "lion",
+              "difficulty": 1
+            },
+            {
+              "question": "What is the largest animal in the world?",
+              "answer": "blue whale",
+              "A": "elephant",
+              "B": "blue whale",
+              "C": "giraffe",
+              "D": "hippopotamus",
+              "difficulty": 1
+            },
+            {
+              "question": "Which animal is known for its long neck?",
+              "answer": "giraffe",
+              "A": "zebra",
+              "B": "elephant",
+              "C": "giraffe",
+              "D": "kangaroo",
+              "difficulty": 1
+            },
+            {
+              "question": "What is a baby cow called?",
+              "answer": "calf",
+              "A": "kid",
+              "B": "calf",
+              "C": "foal",
+              "D": "piglet",
+              "difficulty": 1
+            },
+            {
+              "question": "Which animal is known for its black and white stripes?",
+              "answer": "zebra",
+              "A": "giraffe",
+              "B": "zebra",
+              "C": "lion",
+              "D": "elephant",
+              "difficulty": 1
+            },
+            {
+              "question": "What do you call a baby sheep?",
+              "answer": "lamb",
+              "A": "calf",
+              "B": "lamb",
+              "C": "puppy",
+              "D": "kitten",
+              "difficulty": 1
+            },
+            {
+              "question": "Which bird is often a symbol of peace?",
+              "answer": "dove",
+              "A": "hawk",
+              "B": "dove",
+              "C": "eagle",
+              "D": "vulture",
+              "difficulty": 1
+            },
+            {
+              "question": "What is the natural habitat of a panda?",
+              "answer": "bamboo forests",
+              "A": "tropical rainforests",
+              "B": "bamboo forests",
+              "C": "grasslands",
+              "D": "deserts",
+              "difficulty": 1
+            },
+            {
+              "question": "Which animal is known for its black and white coloration and lives in cold climates?",
+              "answer": "penguin",
+              "A": "parrot",
+              "B": "penguin",
+              "C": "peacock",
+              "D": "flamingo",
+              "difficulty": 1
+            },
+            {
+              "question": "What is the fastest bird on foot?",
+              "answer": "ostrich",
+              "A": "penguin",
+              "B": "ostrich",
+              "C": "eagle",
+              "D": "flamingo",
+              "difficulty": 1
+            },
+            {
+              "question": "Which animal is known for its long trunk?",
+              "answer": "elephant",
+              "A": "giraffe",
+              "B": "elephant",
+              "C": "lion",
+              "D": "rhinoceros",
+              "difficulty": 1
+            },
+            {
+              "question": "What is a baby goat called?",
+              "answer": "kid",
+              "A": "calf",
+              "B": "lamb",
+              "C": "kid",
+              "D": "puppy",
+              "difficulty": 1
+            },
+            {
+              "question": "Which animal has a shell and moves very slowly?",
+              "answer": "turtle",
+              "A": "rabbit",
+              "B": "turtle",
+              "C": "snail",
+              "D": "sloth",
+              "difficulty": 1
+            },
+            {
+              "question": "What is the fastest sea animal?",
+              "answer": "sailfish",
+              "A": "dolphin",
+              "B": "shark",
+              "C": "sailfish",
+              "D": "whale",
+              "difficulty": 1
+            },
+            {
+              "question": "Which bird is known for its ability to imitate human speech?",
+              "answer": "parrot",
+              "A": "owl",
+              "B": "parrot",
+              "C": "hawk",
+              "D": "peacock",
+              "difficulty": 1
+            },
+            {
+              "question": "What is the natural habitat of a tiger?",
+              "answer": "jungle",
+              "A": "tundra",
+              "B": "jungle",
+              "C": "desert",
+              "D": "savanna",
+              "difficulty": 1
+            },
+            {
+              "question": "Which animal is known for its large mane?",
+              "answer": "lion",
+              "A": "tiger",
+              "B": "elephant",
+              "C": "lion",
+              "D": "leopard",
+              "difficulty": 1
+            },
+            {
+              "question": "What do you call a baby horse?",
+              "answer": "foal",
+              "A": "calf",
+              "B": "foal",
+              "C": "kitten",
+              "D": "puppy",
+              "difficulty": 1
+            },
+            {
+              "question": "Which animal is known for its hump(s) on its back?",
+              "answer": "camel",
+              "A": "horse",
+              "B": "camel",
+              "C": "llama",
+              "D": "donkey",
+              "difficulty": 1
+            },
+            {
+              "question": "What is the largest bird in the world?",
+              "answer": "ostrich",
+              "A": "eagle",
+              "B": "ostrich",
+              "C": "emu",
+              "D": "condor",
+              "difficulty": 1
+            }
+        ]
+}
+

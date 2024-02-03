@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dado1
+  - Dado2
+  - GlobalVar
+  - SamplesInfoPanel
+  - PosizioneDadi
+  - GestureFunction
+  - PedinaObj
+  - Oculus
+  - Pedine
+  - SchermoDado1
+  - SchermoDado2
+  - PositionCamera
+  - PositionCameraDado1
+  - PositionCameraDado2
+  - FxTemporaire
+  - EffectTornado
+  - Effetti
+  - PosizionePoliziotto
+  - Poliziotto
+  - Bus
+  - Gomma
+  - Bonus
+  - LeftHand
+  - RightHand
+  - NuvolaFumetto
+  - PositionScore
+  - TabletScore
+  - TestoScore
+  - TestoPuntiCasella
+  - Keypad
+  - TestoBottoniRisposta
+  - PosizioneJolly
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Dadi
+  - LightObj2
+  - NoLightPg
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

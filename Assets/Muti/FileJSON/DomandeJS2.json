@@ -1,0 +1,807 @@
+
+{
+  "Verbs": [
+    {
+      "question": "What is the past tense of 'think'?",
+      "answer": "thought",
+      "difficulty": 2
+    },
+    {
+      "question": "Choose the correct form of the verb 'to dance' in the present perfect tense.",
+      "answer": "has danced",
+      "difficulty": 2
+    },
+    {
+      "question": "Which form of the verb 'to go' is used in the future tense?",
+      "answer": "will go",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the past participle of 'run'?",
+      "answer": "run",
+      "difficulty": 2
+    },
+    {
+      "question": "Choose the correct form of the verb 'to sleep' in the continuous present tense.",
+      "answer": "is sleeping",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the present participle of 'swim'?",
+      "answer": "swimming",
+      "difficulty": 2
+    },
+    {
+      "question": "Choose the correct form of the verb 'to read' in the simple past tense.",
+      "answer": "read",
+      "difficulty": 2
+    },
+    {
+      "question": "Which form of the verb 'to have' is used in the future perfect tense?",
+      "answer": "will have",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the past participle of 'write'?",
+      "answer": "written",
+      "difficulty": 2
+    },
+    {
+      "question": "Choose the correct form of the verb 'to sing' in the continuous present tense.",
+      "answer": "is singing",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the present perfect tense of 'forget'?",
+      "answer": "has forgotten",
+      "difficulty": 2
+    },
+    {
+      "question": "Choose the correct form of the verb 'to speak' in the simple past tense.",
+      "answer": "spoke",
+      "difficulty": 2
+    },
+    {
+      "question": "Which form of the verb 'to study' is used in the future continuous tense?",
+      "answer": "will be studying",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the past participle of 'choose'?",
+      "answer": "chosen",
+      "difficulty": 2
+    },
+    {
+      "question": "Choose the correct form of the verb 'to drink' in the continuous present tense.",
+      "answer": "is drinking",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the future perfect tense of 'arrive'?",
+      "answer": "will have arrived",
+      "difficulty": 2
+    },
+    {
+      "question": "Choose the correct form of the verb 'to run' in the simple past tense.",
+      "answer": "ran",
+      "difficulty": 2
+    },
+    {
+      "question": "Which form of the verb 'to eat' is used in the future continuous tense?",
+      "answer": "will be eating",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the past participle of 'begin'?",
+      "answer": "begun",
+      "difficulty": 2
+    },
+    {
+      "question": "Choose the correct form of the verb 'to think' in the continuous present tense.",
+      "answer": "is thinking",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the past tense of 'feel'?",
+      "answer": "felt",
+      "difficulty": 2
+    },
+    {
+      "question": "Choose the correct form of the verb 'to jump' in the present perfect tense.",
+      "answer": "has jumped",
+      "difficulty": 2
+    },
+    {
+      "question": "Which form of the verb 'to think' is used in the future tense?",
+      "answer": "will think",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the past participle of 'break'?",
+      "answer": "broken",
+      "difficulty": 2
+    },
+    {
+      "question": "Choose the correct form of the verb 'to play' in the continuous present tense.",
+      "answer": "is playing",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the present participle of 'fly'?",
+      "answer": "flying",
+      "difficulty": 2
+    },
+    {
+      "question": "Choose the correct form of the verb 'to buy' in the simple past tense.",
+      "answer": "bought",
+      "difficulty": 2
+    },
+    {
+      "question": "Which form of the verb 'to have' is used in the future perfect tense?",
+      "answer": "will have",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the past participle of 'write'?",
+      "answer": "written",
+      "difficulty": 2
+    },
+    {
+      "question": "Choose the correct form of the verb 'to read' in the continuous present tense.",
+      "answer": "is reading",
+      "difficulty": 2
+    }
+    ],
+
+
+
+
+
+
+
+
+    
+  "Grammar": [
+    {
+      "question": "What is the plural form of 'child'?",
+      "answer": "children",
+      "difficulty": 2
+    },
+    {
+      "question": "Which punctuation mark is used at the end of an interrogative sentence?",
+      "answer": "question mark",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the comparative form of 'good'?",
+      "answer": "better",
+      "difficulty": 2
+    },
+    {
+      "question": "Identify the part of speech for the word 'quickly' in the sentence: 'She ran quickly.'",
+      "answer": "adverb",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the opposite of the word 'happy'?",
+      "answer": "sad",
+      "difficulty": 2
+    },
+    {
+      "question": "Which word is a conjunction: 'and' or 'book'?",
+      "answer": "and",
+      "difficulty": 2
+    },
+    {
+      "question": "Identify the preposition in the following sentence: 'The cat jumped over the fence.'",
+      "answer": "over",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the plural form of 'ox'?",
+      "answer": "oxen",
+      "difficulty": 2
+    },
+    {
+      "question": "Which word is a pronoun: 'tree' or 'he'?",
+      "answer": "he",
+      "difficulty": 2
+    },
+    {
+      "question": "Identify the conjunction in the sentence: 'She wanted to go, but she had to stay.'",
+      "answer": "but",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the comparative form of 'beautiful'?",
+      "answer": "more beautiful",
+      "difficulty": 2
+    },
+    {
+      "question": "Which is a possessive pronoun: 'my' or 'car'?",
+      "answer": "my",
+      "difficulty": 2
+    },
+    {
+      "question": "Identify the preposition in the sentence: 'They walked through the park.'",
+      "answer": "through",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the plural form of 'mouse'?",
+      "answer": "mice",
+      "difficulty": 2
+    },
+    {
+      "question": "Which word is a conjunction: 'and' or 'apple'?",
+      "answer": "and",
+      "difficulty": 2
+    },
+    {
+      "question": "Identify the adverb in the sentence: 'She sang beautifully.'",
+      "answer": "beautifully",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the opposite of the word 'old'?",
+      "answer": "young",
+      "difficulty": 2
+    },
+    {
+      "question": "Which word is a pronoun: 'table' or 'it'?",
+      "answer": "it",
+      "difficulty": 2
+    },
+    {
+      "question": "Identify the conjunction in the sentence: 'He ran and jumped.'",
+      "answer": "and",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the superlative form of 'fast'?",
+      "answer": "fastest",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the plural form of 'person'?",
+      "answer": "people",
+      "difficulty": 2
+    },
+    {
+      "question": "Which punctuation mark is used to separate items in a list?",
+      "answer": "comma",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the comparative form of 'tall'?",
+      "answer": "taller",
+      "difficulty": 2
+    },
+    {
+      "question": "Identify the part of speech for the word 'quickly' in the sentence: 'He ran quickly.'",
+      "answer": "adverb",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the opposite of the word 'big'?",
+      "answer": "small",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the plural form of 'child'?",
+      "answer": "children",
+      "difficulty": 2
+    },
+    {
+      "question": "Identify the conjunction in the sentence: 'I want to go, but I have to stay.'",
+      "answer": "but",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the comparative form of 'far'?",
+      "answer": "farther",
+      "difficulty": 2
+    },
+    {
+      "question": "Identify the adverb in the sentence: 'He sings very well.'",
+      "answer": "very",
+      "difficulty": 2
+    },
+    {
+      "question": "Which word is a conjunction: 'since' or 'jumped'?",
+      "answer": "since",
+      "difficulty": 2
+    }
+    ],
+      
+      
+
+
+
+
+
+
+
+
+
+
+  "Geography": [
+    {
+      "question": "What is the capital of France?",
+      "answer": "Paris",
+      "difficulty": 2
+    },
+    {
+      "question": "Which continent is the largest by land area?",
+      "answer": "Asia",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "answer": "Nile",
+      "difficulty": 2
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "answer": "Japan",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the capital of Spain?",
+      "answer": "Madrid",
+      "difficulty": 2
+    },
+    {
+      "question": "Which ocean is the largest?",
+      "answer": "Pacific Ocean",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "answer": "Mount Everest",
+      "difficulty": 2
+    },
+    {
+      "question": "Which is the smallest continent?",
+      "answer": "Australia",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the largest desert in the world?",
+      "answer": "Sahara Desert",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the capital of Italy?",
+      "answer": "Rome",
+      "difficulty": 2
+    },
+    {
+      "question": "Which country is known as the Land of the Midnight Sun?",
+      "answer": "Norway",
+      "difficulty": 2
+    },
+    {
+      "question": "Which is the longest mountain range in the world?",
+      "answer": "Andes",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the capital of India?",
+      "answer": "New Delhi",
+      "difficulty": 2
+    },
+    {
+      "question": "Which is the largest island in the world?",
+      "answer": "Greenland",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the highest waterfall in the world?",
+      "answer": "Angel Falls",
+      "difficulty": 2
+    },
+    {
+      "question": "Which river runs through Egypt?",
+      "answer": "Nile",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the capital of Brazil?",
+      "answer": "Brasília",
+      "difficulty": 2
+    },
+    {
+      "question": "Which country is known as the Land of the Long White Cloud?",
+      "answer": "New Zealand",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the deepest ocean in the world?",
+      "answer": "Pacific Ocean",
+      "difficulty": 2
+    },
+    {
+      "question": "Which is the driest desert in the world?",
+      "answer": "Atacama Desert",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "answer": "Ottawa",
+      "difficulty": 2
+    },
+    {
+      "question": "Which country is known as the Land of Fire and Ice?",
+      "answer": "Iceland",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the largest bay in the world?",
+      "answer": "Hudson Bay",
+      "difficulty": 2
+    },
+    {
+      "question": "Which is the highest plateau in the world?",
+      "answer": "Tibetan Plateau",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the capital of South Africa?",
+      "answer": "Pretoria",
+      "difficulty": 2
+    },
+    {
+      "question": "Which country is known as the Land Down Under?",
+      "answer": "Australia",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the largest lake in Africa?",
+      "answer": "Lake Victoria",
+      "difficulty": 2
+    },
+    {
+      "question": "Which is the oldest city in the world?",
+      "answer": "Damascus",
+      "difficulty": 2
+    },
+    {
+      "question": "What is the capital of Argentina?",
+      "answer": "Buenos Aires",
+      "difficulty": 2
+    },
+    {
+      "question": "Which country is known as the Roof of the World?",
+      "answer": "Tibet",
+      "difficulty": 2
+    }
+        
+  ],
+
+
+
+
+
+
+
+
+
+  "Objects": [
+    {
+      "question": "What do you use to write on paper?",
+      "answer": "pen",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to cut paper?",
+      "answer": "scissors",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to listen to music?",
+      "answer": "headphones",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to take pictures?",
+      "answer": "camera",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to open doors?",
+      "answer": "key",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to play music CDs?",
+      "answer": "CD player",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to cook food?",
+      "answer": "stove",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to measure time?",
+      "answer": "clock",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to drink water?",
+      "answer": "cup",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to write messages?",
+      "answer": "phone",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to see distant objects?",
+      "answer": "binoculars",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to clean the floor?",
+      "answer": "broom",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to eat soup?",
+      "answer": "spoon",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to carry things?",
+      "answer": "bag",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to watch movies?",
+      "answer": "television",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to write emails?",
+      "answer": "computer",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to clean your teeth?",
+      "answer": "toothbrush",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to eat salad?",
+      "answer": "fork",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to listen to the radio?",
+      "answer": "radio",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to drink coffee?",
+      "answer": "mug",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to wash clothes?",
+      "answer": "washing machine",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to write in a notebook?",
+      "answer": "pencil",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to navigate while driving?",
+      "answer": "GPS",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to see in the dark?",
+      "answer": "flashlight",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to make toast?",
+      "answer": "toaster",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to drink tea?",
+      "answer": "teacup",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to write on a whiteboard?",
+      "answer": "marker",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to eat spaghetti?",
+      "answer": "fork",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to clean windows?",
+      "answer": "sponge",
+      "difficulty": 2
+    },
+    {
+      "question": "What do you use to play video games?",
+      "answer": "game console",
+      "difficulty": 2
+    }
+  ],
+
+
+
+
+
+
+
+
+
+
+
+
+"Animals": [
+  {
+    "question": "What is the largest animal in the world?",
+    "answer": "blue whale",
+    "difficulty": 2
+  },
+  {
+    "question": "Which animal can fly without wings?",
+    "answer": "snake",
+    "difficulty": 2
+  },
+  {
+    "question": "Which animal is known for carrying its babies in a pouch?",
+    "answer": "kangaroo",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the king of the jungle?",
+    "answer": "lion",
+    "difficulty": 2
+  },
+  {
+    "question": "Which animal sleeps upside down?",
+    "answer": "bat",
+    "difficulty": 2
+  },
+  {
+    "question": "What animal is known for its black and white stripes?",
+    "answer": "zebra",
+    "difficulty": 2
+  },
+  {
+    "question": "What animal can mimic human speech?",
+    "answer": "parrot",
+    "difficulty": 2
+  },
+  {
+    "question": "Which animal has a hump on its back?",
+    "answer": "camel",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the slowest mammal?",
+    "answer": "sloth",
+    "difficulty": 2
+  },
+  {
+    "question": "Which animal can change its color?",
+    "answer": "chameleon",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the largest big cat?",
+    "answer": "tiger",
+    "difficulty": 2
+  },
+  {
+    "question": "Which animal can run the fastest?",
+    "answer": "cheetah",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the tallest animal on land?",
+    "answer": "giraffe",
+    "difficulty": 2
+  },
+  {
+    "question": "Which animal has the longest neck?",
+    "answer": "giraffe",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the largest species of bear?",
+    "answer": "polar bear",
+    "difficulty": 2
+  },
+  {
+    "question": "Which animal has a shell on its back?",
+    "answer": "turtle",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the national animal of Australia?",
+    "answer": "kangaroo",
+    "difficulty": 2
+  },
+  {
+    "question": "Which animal sleeps for nearly 20 hours a day?",
+    "answer": "koala",
+    "difficulty": 2
+  },
+  {
+    "question": "What animal can change its gender?",
+    "answer": "clownfish",
+    "difficulty": 2
+  },
+  {
+    "question": "Which animal is known as the 'ship of the desert'?",
+    "answer": "camel",
+    "difficulty": 2
+  },
+  {
+    "question": "What animal has the best sense of smell?",
+    "answer": "bloodhound",
+    "difficulty": 2
+  },
+  {
+    "question": "Which animal is known for its long trunk?",
+    "answer": "elephant",
+    "difficulty": 2
+  },
+  {
+    "question": "What is the largest bird in the world?",
+    "answer": "ostrich",
+    "difficulty": 2
+  },
+  {
+    "question": "Which animal is considered a symbol of wisdom?",
+    "answer": "owl",
+    "difficulty": 2
+  },
+  {
+    "question": "What animal is known for its black and white fur and lives in China?",
+    "answer": "giant panda",
+    "difficulty": 2
+  },
+  {
+    "question": "Which animal is known for its ability to climb trees?",
+    "answer": "sloth",
+    "difficulty": 2
+  },
+  {
+    "question": "What animal is often used to describe someone who eats a lot?",
+    "answer": "pig",
+    "difficulty": 2
+  },
+  {
+    "question": "Which animal is known for its long, sticky tongue?",
+    "answer": "anteater",
+    "difficulty": 2
+  },
+  {
+    "question": "What animal is considered the symbol of peace?",
+    "answer": "dove",
+    "difficulty": 2
+  },
+  {
+    "question": "Which animal is known for its humps?",
+    "answer": "camel",
+    "difficulty": 2
+  }
+  ]
+}
+

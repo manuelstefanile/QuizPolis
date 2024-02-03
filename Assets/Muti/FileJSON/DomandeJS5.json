@@ -1,0 +1,663 @@
+
+{
+  "Verbs": [
+    {
+      "question": "Identify the correct form of the verb 'to be' in the subjunctive mood when used with 'he' or 'she'.",
+      "answer": "were",
+      "difficulty": 5
+    },
+    {
+      "question": "Select the appropriate form of the verb 'to go' in the past perfect subjunctive mood for the pronoun 'they'.",
+      "answer": "had gone",
+      "difficulty": 5
+    },
+    {
+      "question": "Choose the right form of the verb 'to eat' in the pluperfect indicative mood for the pronoun 'I'.",
+      "answer": "had eaten",
+      "difficulty": 5
+    },
+    {
+      "question": "Identify the correct form of the verb 'to swim' in the past perfect indicative mood for the pronoun 'we'.",
+      "answer": "had swum",
+      "difficulty": 5
+    },
+    {
+      "question": "Choose the appropriate form of the verb 'to write' in the future perfect continuous indicative mood for the pronoun 'you'.",
+      "answer": "will have been writing",
+      "difficulty": 5
+    },
+    {
+      "question": "Identify the correct form of the verb 'to run' in the present perfect continuous subjunctive mood for the pronoun 'they'.",
+      "answer": "have been running",
+      "difficulty": 5
+    },
+    {
+      "question": "Choose the right form of the verb 'to think' in the future perfect indicative mood for the pronoun 'she'.",
+      "answer": "will have thought",
+      "difficulty": 5
+    },
+    {
+      "question": "Select the appropriate form of the verb 'to rise' in the past perfect continuous indicative mood for the pronoun 'he'.",
+      "answer": "had been rising",
+      "difficulty": 5
+    },
+    {
+      "question": "Identify the correct form of the verb 'to fly' in the pluperfect subjunctive mood for the pronoun 'we'.",
+      "answer": "had flown",
+      "difficulty": 5
+    },
+    {
+      "question": "Choose the right form of the verb 'to come' in the future perfect continuous indicative mood for the pronoun 'I'.",
+      "answer": "will have been coming",
+      "difficulty": 5
+    },
+    {
+      "question": "Identify the correct form of the verb 'to fall' in the past perfect continuous subjunctive mood for the pronoun 'they'.",
+      "answer": "had been falling",
+      "difficulty": 5
+    },
+    {
+      "question": "Select the appropriate form of the verb 'to hide' in the future perfect subjunctive mood for the pronoun 'you'.",
+      "answer": "will have hidden",
+      "difficulty": 5
+    },
+    {
+      "question": "Choose the right form of the verb 'to think' in the future perfect continuous indicative mood for the pronoun 'we'.",
+      "answer": "will have been thinking",
+      "difficulty": 5
+    }
+    ],
+
+
+
+
+
+
+
+
+    
+  "Grammar": [
+    {
+      "question": "Conjunction 'although' type?",
+      "answer": "contrast",
+      "difficulty": 5
+    },
+    {
+      "question": "Proper 'whichever' use?",
+      "answer": "any",
+      "difficulty": 5
+    },
+    {
+      "question": "Correct 'thereafter' usage?",
+      "answer": "after",
+      "difficulty": 5
+    },
+    {
+      "question": "'whichever' determiner use?",
+      "answer": "any",
+      "difficulty": 5
+    },
+    {
+      "question": "Preposition 'amongst' for?",
+      "answer": "multiple",
+      "difficulty": 5
+    },
+    {
+      "question": "Conjunction 'whilst' context?",
+      "answer": "contrast",
+      "difficulty": 5
+    },
+    {
+      "question": "Demonstrative 'Those' for?",
+      "answer": "farther",
+      "difficulty": 5
+    },
+    {
+      "question": "Preposition 'notwithstanding' for?",
+      "answer": "despite",
+      "difficulty": 5
+    },
+    {
+      "question": "Relative 'that' usage?",
+      "answer": "restrictive",
+      "difficulty": 5
+    },
+    {
+      "question": "Conjunction 'therefore' context?",
+      "answer": "consequence",
+      "difficulty": 5
+    },
+    {
+      "question": "Determiner 'those' usage?",
+      "answer": "farther",
+      "difficulty": 5
+    },
+    {
+      "question": "Proper 'whereas' usage?",
+      "answer": "comparison",
+      "difficulty": 5
+    },
+    {
+      "question": "Correct 'whichever' type?",
+      "answer": "any",
+      "difficulty": 5
+    },
+    {
+      "question": "Conjunction 'nevertheless' context?",
+      "answer": "despite",
+      "difficulty": 5
+    },
+    {
+      "question": "Demonstrative 'That' for?",
+      "answer": "farther",
+      "difficulty": 5
+    },
+    {
+      "question": "Preposition 'amidst' use?",
+      "answer": "middle",
+      "difficulty": 5
+    }
+    ],
+      
+      
+
+
+
+
+
+
+
+
+
+
+  "Geography": [
+    {
+      "question": "Country with the smallest population?",
+      "answer": "Vatican City",
+      "difficulty": 5
+    },
+    {
+      "question": "Lowest point on Earth's surface?",
+      "answer": "Dead Sea",
+      "difficulty": 5
+    },
+    {
+      "question": "Country with the most active volcanoes?",
+      "answer": "Indonesia",
+      "difficulty": 5
+    },
+    {
+      "question": "The driest desert on Earth?",
+      "answer": "Atacama Desert",
+      "difficulty": 5
+    },
+    {
+      "question": "Country with the largest tropical rainforest?",
+      "answer": "Brazil",
+      "difficulty": 5
+    },
+    {
+      "question": "Northernmost capital city?",
+      "answer": "Reykjavik",
+      "difficulty": 5
+    },
+    {
+      "question": "Smallest continent by land area?",
+      "answer": "Australia",
+      "difficulty": 5
+    },
+    {
+      "question": "Largest coral reef system?",
+      "answer": "Great Barrier Reef",
+      "difficulty": 5
+    },
+    {
+      "question": "Country with the highest average elevation?",
+      "answer": "Bhutan",
+      "difficulty": 5
+    },
+    {
+      "question": "Largest saltwater lake?",
+      "answer": "Caspian Sea",
+      "difficulty": 5
+    },
+    {
+      "question": "The deepest point in the ocean?",
+      "answer": "Mariana Trench",
+      "difficulty": 5
+    },
+    {
+      "question": "Country with the largest number of islands?",
+      "answer": "Sweden",
+      "difficulty": 5
+    },
+    {
+      "question": "Largest archipelago by area?",
+      "answer": "Indonesia",
+      "difficulty": 5
+    },
+    {
+      "question": "Highest waterfall in the world?",
+      "answer": "Angel Falls",
+      "difficulty": 5
+    },
+    {
+      "question": "Largest peninsula?",
+      "answer": "Arabian Peninsula",
+      "difficulty": 5
+    },
+    {
+      "question": "Fastest flowing river?",
+      "answer": "Amazon River",
+      "difficulty": 5
+    },
+    {
+      "question": "Country with the most time zones?",
+      "answer": "France",
+      "difficulty": 5
+    },
+    {
+      "question": "Largest ice cap?",
+      "answer": "Antarctica",
+      "difficulty": 5
+    },
+    {
+      "question": "The highest capital city?",
+      "answer": "La Paz, Bolivia",
+      "difficulty": 5
+    },
+    {
+      "question": "Country with the highest waterfall density?",
+      "answer": "Guyana",
+      "difficulty": 5
+    },
+    {
+      "question": "Largest country by land area?",
+      "answer": "Russia",
+      "difficulty": 5
+    },
+    {
+      "question": "Deepest lake in North America?",
+      "answer": "Crater Lake",
+      "difficulty": 5
+    },
+    {
+      "question": "Largest delta?",
+      "answer": "Ganges Delta",
+      "difficulty": 5
+    },
+    {
+      "question": "The only continent in all four hemispheres?",
+      "answer": "Africa",
+      "difficulty": 5
+    },
+    {
+      "question": "The coldest inhabited place on Earth?",
+      "answer": "Oymyakon, Russia",
+      "difficulty": 5
+    },
+    {
+      "question": "The only sea without a coastline?",
+      "answer": "Sargasso Sea",
+      "difficulty": 5
+    },
+    {
+      "question": "Largest sand desert?",
+      "answer": "Rub' al Khali",
+      "difficulty": 5
+    },
+    {
+      "question": "The largest river by discharge?",
+      "answer": "Amazon River",
+      "difficulty": 5
+    },
+    {
+      "question": "The highest city in the world?",
+      "answer": "La Rinconada, Peru",
+      "difficulty": 5
+    },
+    {
+      "question": "Country with the most national parks?",
+      "answer": "United States",
+      "difficulty": 5
+    }
+        
+  ],
+
+
+
+
+
+
+
+
+
+  "Objects": [
+    {
+      "question": "What device measures subatomic particles' properties?",
+      "answer": "particle detector",
+      "difficulty": 5
+    },
+    {
+      "question": "What tool is used to measure atomic and molecular sizes?",
+      "answer": "electron microscope",
+      "difficulty": 5
+    },
+    {
+      "question": "What instrument is used to measure molecular interactions?",
+      "answer": "biosensor",
+      "difficulty": 5
+    },
+    {
+      "question": "What device measures astronomical distances?",
+      "answer": "parallax instrument",
+      "difficulty": 5
+    },
+    {
+      "question": "What tool is used to measure subatomic particle energy?",
+      "answer": "particle accelerator",
+      "difficulty": 5
+    },
+    {
+      "question": "What instrument is used to measure gravitational waves?",
+      "answer": "gravitational-wave detector",
+      "difficulty": 5
+    },
+    {
+      "question": "What device measures the curvature of spacetime?",
+      "answer": "gravimeter",
+      "difficulty": 5
+    },
+    {
+      "question": "What tool is used to measure the expansion of the universe?",
+      "answer": "cosmological redshift",
+      "difficulty": 5
+    },
+    {
+      "question": "What instrument is used to measure the speed of light?",
+      "answer": "Michelson interferometer",
+      "difficulty": 5
+    },
+    {
+      "question": "What device measures the magnetic fields of celestial bodies?",
+      "answer": "magnetometer",
+      "difficulty": 5
+    },
+    {
+      "question": "What tool is used to measure the size of the universe?",
+      "answer": "Hubble's law",
+      "difficulty": 5
+    },
+    {
+      "question": "What instrument is used to measure the cosmic microwave background radiation?",
+      "answer": "cosmic microwave background radiation detector",
+      "difficulty": 5
+    },
+    {
+      "question": "What device measures the fundamental constants of nature?",
+      "answer": "laser interferometer",
+      "difficulty": 5
+    },
+    {
+      "question": "What tool is used to measure the age of the universe?",
+      "answer": "cosmic age",
+      "difficulty": 5
+    },
+    {
+      "question": "What instrument is used to measure black hole properties?",
+      "answer": "black hole spectroscopy",
+      "difficulty": 5
+    },
+    {
+      "question": "What device measures dark matter properties?",
+      "answer": "dark matter detector",
+      "difficulty": 5
+    },
+    {
+      "question": "What tool is used to measure quantum entanglement?",
+      "answer": "quantum entanglement detector",
+      "difficulty": 5
+    },
+    {
+      "question": "What instrument is used to measure the heat death of the universe?",
+      "answer": "entropy",
+      "difficulty": 5
+    },
+    {
+      "question": "What device measures the universe's rate of expansion?",
+      "answer": "Hubble constant",
+      "difficulty": 5
+    },
+    {
+      "question": "What tool is used to measure the curvature of spacetime?",
+      "answer": "gravitational lensing",
+      "difficulty": 5
+    },
+    {
+      "question": "What instrument is used to measure dark energy?",
+      "answer": "cosmological constant",
+      "difficulty": 5
+    },
+    {
+      "question": "What device measures the mass of celestial bodies?",
+      "answer": "mass spectrometer",
+      "difficulty": 5
+    },
+    {
+      "question": "What tool is used to measure quantum fluctuations?",
+      "answer": "quantum fluctuation detector",
+      "difficulty": 5
+    },
+    {
+      "question": "What instrument is used to measure the multiverse?",
+      "answer": "multiverse theory",
+      "difficulty": 5
+    },
+    {
+      "question": "What device measures the Planck constant?",
+      "answer": "quantum harmonic oscillator",
+      "difficulty": 5
+    },
+    {
+      "question": "What tool is used to measure particle-wave duality?",
+      "answer": "double-slit experiment",
+      "difficulty": 5
+    },
+    {
+      "question": "What instrument is used to measure quantum superposition?",
+      "answer": "Schrödinger's cat",
+      "difficulty": 5
+    },
+    {
+      "question": "What device measures quantum tunneling?",
+      "answer": "tunneling microscope",
+      "difficulty": 5
+    },
+    {
+      "question": "What tool is used to measure quantum decoherence?",
+      "answer": "quantum decoherence",
+      "difficulty": 5
+    },
+    {
+      "question": "What instrument is used to measure quantum entanglement?",
+      "answer": "quantum entanglement",
+      "difficulty": 5
+    },
+    {
+      "question": "What device measures the uncertainty principle?",
+      "answer": "Heisenberg microscope",
+      "difficulty": 5
+    }
+  ],
+
+
+
+
+
+
+
+
+
+
+
+
+"Animals": [
+
+    {
+      "question": "What rare species of lizard is known for its ability to shoot blood from its eyes?",
+      "answer": "horned lizard",
+      "difficulty": 5
+    },
+    {
+      "question": "What predatory bird is known for its exceptional eyesight?",
+      "answer": "eagle",
+      "difficulty": 5
+    },
+    {
+      "question": "What marine mammal is known for its long, spiral tusks?",
+      "answer": "narwhal",
+      "difficulty": 5
+    },
+    {
+      "question": "What reptile is known for its ability to regrow its tail?",
+      "answer": "gecko",
+      "difficulty": 5
+    },
+    {
+      "question": "What large bird is known for its powerful talons and hooked beak?",
+      "answer": "hawk",
+      "difficulty": 5
+    },
+    {
+      "question": "What marine mammal is known for its complex songs?",
+      "answer": "whale",
+      "difficulty": 5
+    },
+    {
+      "question": "What nocturnal bird is known for its silent flight?",
+      "answer": "owl",
+      "difficulty": 5
+    },
+    {
+      "question": "What large mammal is known for its migration across the African savannas?",
+      "answer": "wildebeest",
+      "difficulty": 5
+    },
+    {
+      "question": "What carnivorous marsupial is native to Australia and is known for its pouch?",
+      "answer": "Tasmanian devil",
+      "difficulty": 5
+    },
+    {
+      "question": "What primate is known for its red coloring and long tail?",
+      "answer": "orangutan",
+      "difficulty": 5
+    },
+    {
+      "question": "What large mammal is known for its prehensile trunk?",
+      "answer": "elephant",
+      "difficulty": 5
+    },
+    {
+      "question": "What predatory fish is known for its sharp teeth and streamlined body?",
+      "answer": "barracuda",
+      "difficulty": 5
+    },
+    {
+      "question": "What large mammal is known for its aggressive behavior and long horns?",
+      "answer": "cape buffalo",
+      "difficulty": 5
+    },
+    {
+      "question": "What reptile is known for its tough, bony plates covering its body?",
+      "answer": "armadillo",
+      "difficulty": 5
+    },
+    {
+      "question": "What marine mammal is known for its long, toothed snout?",
+      "answer": "sperm whale",
+      "difficulty": 5
+    },
+    {
+      "question": "What amphibian is known for its colorful, poisonous skin?",
+      "answer": "poison dart frog",
+      "difficulty": 5
+    },
+    {
+      "question": "What large feline is known for its distinctive mane?",
+      "answer": "lion",
+      "difficulty": 5
+    },
+    {
+      "question": "What marsupial is native to Australia and has a pouch?",
+      "answer": "kangaroo",
+      "difficulty": 5
+    },
+    {
+      "question": "What bird is known for its long, curved bill and ability to imitate sounds?",
+      "answer": "parrot",
+      "difficulty": 5
+    },
+    {
+      "question": "What large mammal is known for its ability to stand on two legs?",
+      "answer": "meerkat",
+      "difficulty": 5
+    },
+    {
+      "question": "What reptile is known for its elongated, flexible body and lack of legs?",
+      "answer": "snake",
+      "difficulty": 5
+    },
+    {
+      "question": "What nocturnal bird is known for its large eyes and silent flight?",
+      "answer": "owl",
+      "difficulty": 5
+    },
+    {
+      "question": "What marine mammal is known for its playful behavior and rounded snout?",
+      "answer": "dolphin",
+      "difficulty": 5
+    },
+    {
+      "question": "What large primate is known for its black and white fur?",
+      "answer": "giant panda",
+      "difficulty": 5
+    },
+    {
+      "question": "What venomous snake is known for its hood?",
+      "answer": "cobra",
+      "difficulty": 5
+    },
+    {
+      "question": "What large marine mammal is known for its tusks?",
+      "answer": "walrus",
+      "difficulty": 5
+    },
+    {
+      "question": "What predatory bird is known for its powerful talons?",
+      "answer": "hawk",
+      "difficulty": 5
+    },
+    {
+      "question": "What large mammal is known for its black and white stripes?",
+      "answer": "zebra",
+      "difficulty": 5
+    },
+    {
+      "question": "What large bird is known for its ability to run at high speeds?",
+      "answer": "ostrich",
+      "difficulty": 5
+    },
+    {
+      "question": "What primate is known for its agility and long, grasping tail?",
+      "answer": "spider monkey",
+      "difficulty": 5
+    },
+    {
+      "question": "What predatory fish is known for its long, sharp teeth?",
+      "answer": "barracuda",
+      "difficulty": 5
+    }
+  ]
+}
+

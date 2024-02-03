@@ -1,0 +1,852 @@
+
+{
+  "Verbs": [
+    {
+      "question": "What is the past perfect tense of 'sing'?",
+      "answer": "had sung",
+      "difficulty": 3
+    },
+    {
+      "question": "Choose the correct form of the verb 'to build' in the future continuous tense.",
+      "answer": "will be building",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the past tense of 'freeze'?",
+      "answer": "froze",
+      "difficulty": 3
+    },
+    {
+      "question": "Choose the correct form of the verb 'to rise' in the present perfect tense.",
+      "answer": "has risen",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the future perfect tense of 'forget'?",
+      "answer": "will have forgotten",
+      "difficulty": 3
+    },
+    {
+      "question": "Choose the correct form of the verb 'to think' in the past perfect tense.",
+      "answer": "had thought",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the present perfect tense of 'fall'?",
+      "answer": "has fallen",
+      "difficulty": 3
+    },
+    {
+      "question": "Choose the correct form of the verb 'to swim' in the future continuous tense.",
+      "answer": "will be swimming",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the past perfect tense of 'hide'?",
+      "answer": "had hidden",
+      "difficulty": 3
+    },
+    {
+      "question": "Choose the correct form of the verb 'to drink' in the future perfect tense.",
+      "answer": "will have drunk",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the future perfect tense of 'fall'?",
+      "answer": "will have fallen",
+      "difficulty": 3
+    },
+    {
+      "question": "Choose the correct form of the verb 'to come' in the past perfect tense.",
+      "answer": "had come",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the present perfect tense of 'cut'?",
+      "answer": "has cut",
+      "difficulty": 3
+    },
+    {
+      "question": "Choose the correct form of the verb 'to rise' in the future continuous tense.",
+      "answer": "will be rising",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the past perfect tense of 'write'?",
+      "answer": "had written",
+      "difficulty": 3
+    },
+    {
+      "question": "Choose the correct form of the verb 'to think' in the future perfect tense.",
+      "answer": "will have thought",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the future perfect tense of 'come'?",
+      "answer": "will have come",
+      "difficulty": 3
+    },
+    {
+      "question": "Choose the correct form of the verb 'to fall' in the past perfect tense.",
+      "answer": "had fallen",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the present perfect tense of 'rise'?",
+      "answer": "has risen",
+      "difficulty": 3
+    },
+    {
+      "question": "Choose the correct form of the verb 'to hide' in the future perfect tense.",
+      "answer": "will have hidden",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the past perfect tense of 'build'?",
+      "answer": "had built",
+      "difficulty": 3
+    },
+    {
+      "question": "Choose the correct form of the verb 'to freeze' in the future continuous tense.",
+      "answer": "will be freezing",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the future perfect tense of 'write'?",
+      "answer": "will have written",
+      "difficulty": 3
+    },
+    {
+      "question": "Choose the correct form of the verb 'to cut' in the past perfect tense.",
+      "answer": "had cut",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the present perfect tense of 'think'?",
+      "answer": "has thought",
+      "difficulty": 3
+    },
+    {
+      "question": "Choose the correct form of the verb 'to come' in the future continuous tense.",
+      "answer": "will be coming",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the past perfect tense of 'rise'?",
+      "answer": "had risen",
+      "difficulty": 3
+    },
+    {
+      "question": "Choose the correct form of the verb 'to hide' in the future continuous tense.",
+      "answer": "will be hiding",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the future perfect tense of 'think'?",
+      "answer": "will have thought",
+      "difficulty": 3
+    },
+    {
+      "question": "Choose the correct form of the verb 'to fall' in the past perfect tense.",
+      "answer": "had fallen",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the present perfect tense of 'hide'?",
+      "answer": "has hidden",
+      "difficulty": 3
+    }
+    ],
+
+
+
+
+
+
+
+
+    
+  "Grammar": [
+    {
+      "question": "Which type of sentence is used to express a command or request?",
+      "answer": "imperative",
+      "difficulty": 3
+    },
+    {
+      "question": "Identify the conjunction in the sentence: 'She studied hard because she wanted to succeed.'",
+      "answer": "because",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the plural form of 'phenomenon'?",
+      "answer": "phenomena",
+      "difficulty": 3
+    },
+    {
+      "question": "Which word is an article: 'a' or 'running'?",
+      "answer": "a",
+      "difficulty": 3
+    },
+    {
+      "question": "Identify the adverb in the sentence: 'He spoke very softly.'",
+      "answer": "very",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the comparative form of 'far'?",
+      "answer": "farther",
+      "difficulty": 3
+    },
+    {
+      "question": "Which type of pronoun is used as the object of a sentence?",
+      "answer": "objective pronoun",
+      "difficulty": 3
+    },
+    {
+      "question": "Identify the conjunction in the sentence: 'I like to run but I hate to walk.'",
+      "answer": "but",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the plural form of 'index'?",
+      "answer": "indices",
+      "difficulty": 3
+    },
+    {
+      "question": "Which word is a conjunction: 'since' or 'jumped'?",
+      "answer": "since",
+      "difficulty": 3
+    },
+    {
+      "question": "Identify the adverb in the sentence: 'She plays the piano incredibly well.'",
+      "answer": "incredibly",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the comparative form of 'loud'?",
+      "answer": "louder",
+      "difficulty": 3
+    },
+    {
+      "question": "Which type of sentence expresses strong feelings?",
+      "answer": "exclamatory",
+      "difficulty": 3
+    },
+    {
+      "question": "Identify the conjunction in the sentence: 'They sang and danced.'",
+      "answer": "and",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the plural form of 'criterion'?",
+      "answer": "criteria",
+      "difficulty": 3
+    },
+    {
+      "question": "Which word is a preposition: 'around' or 'ate'?",
+      "answer": "around",
+      "difficulty": 3
+    },
+    {
+      "question": "Identify the adverb in the sentence: 'He ran incredibly quickly.'",
+      "answer": "incredibly",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the comparative form of 'smart'?",
+      "answer": "smarter",
+      "difficulty": 3
+    },
+    {
+      "question": "Which type of sentence asks a question?",
+      "answer": "interrogative",
+      "difficulty": 3
+    },
+    {
+      "question": "Identify the conjunction in the sentence: 'I will eat unless I am not hungry.'",
+      "answer": "unless",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the plural form of 'datum'?",
+      "answer": "data",
+      "difficulty": 3
+    },
+    {
+      "question": "Which word is a preposition: 'by' or 'table'?",
+      "answer": "by",
+      "difficulty": 3
+    },
+    {
+      "question": "Identify the adverb in the sentence: 'He writes quite well.'",
+      "answer": "quite",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the comparative form of 'simple'?",
+      "answer": "simpler",
+      "difficulty": 3
+    },
+    {
+      "question": "Which type of sentence gives a command or makes a request?",
+      "answer": "imperative",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the plural form of 'criterion'?",
+      "answer": "criteria",
+      "difficulty": 3
+    },
+    {
+      "question": "Identify the conjunction in the sentence: 'She studied hard because she wanted to succeed.'",
+      "answer": "because",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the comparative form of 'simple'?",
+      "answer": "simpler",
+      "difficulty": 3
+    },
+    {
+      "question": "Identify the adverb in the sentence: 'He writes quite well.'",
+      "answer": "quite",
+      "difficulty": 3
+    },
+    {
+      "question": "Which type of sentence gives a command or makes a request?",
+      "answer": "imperative",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the plural form of 'index'?",
+      "answer": "indices",
+      "difficulty": 3
+    },
+    {
+      "question": "Identify the conjunction in the sentence: 'I will eat unless I am not hungry.'",
+      "answer": "unless",
+      "difficulty": 3
+    },
+    {
+      "question": "Which word is a preposition: 'by' or 'table'?",
+      "answer": "by",
+      "difficulty": 3
+    },
+    {
+      "question": "Identify the adverb in the sentence: 'He runs incredibly quickly.'",
+      "answer": "incredibly",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the plural form of 'datum'?",
+      "answer": "data",
+      "difficulty": 3
+    }
+    ],
+      
+      
+
+
+
+
+
+
+
+
+
+
+  "Geography": [
+    {
+      "question": "Which country has the most time zones?",
+      "answer": "France",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the border river between the United States and Mexico?",
+      "answer": "Rio Grande",
+      "difficulty": 3
+    },
+    {
+      "question": "Which country is the second-largest by land area?",
+      "answer": "Canada",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the name of the strait between Denmark and Sweden?",
+      "answer": "Øresund Strait",
+      "difficulty": 3
+    },
+    {
+      "question": "Which sea is the saltiest on Earth?",
+      "answer": "Red Sea",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the tallest waterfall in the United States?",
+      "answer": "Yosemite Falls",
+      "difficulty": 3
+    },
+    {
+      "question": "Which country is the largest producer of coffee?",
+      "answer": "Brazil",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the smallest independent country in the world?",
+      "answer": "Vatican City",
+      "difficulty": 3
+    },
+    {
+      "question": "Which river flows through Baghdad?",
+      "answer": "Tigris River",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the longest railway in the world?",
+      "answer": "Trans-Siberian Railway",
+      "difficulty": 3
+    },
+    {
+      "question": "Which country is the largest archipelago in the world?",
+      "answer": "Indonesia",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the capital of Ukraine?",
+      "answer": "Kyiv",
+      "difficulty": 3
+    },
+    {
+      "question": "Which strait separates Malaysia and Indonesia?",
+      "answer": "Strait of Malacca",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the highest navigable lake in the world?",
+      "answer": "Lake Titicaca",
+      "difficulty": 3
+    },
+    {
+      "question": "Which country is the largest producer of diamonds?",
+      "answer": "Russia",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the capital of Algeria?",
+      "answer": "Algiers",
+      "difficulty": 3
+    },
+    {
+      "question": "Which sea separates Europe and Africa?",
+      "answer": "Strait of Gibraltar",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the largest coral reef system in the world?",
+      "answer": "Great Barrier Reef",
+      "difficulty": 3
+    },
+    {
+      "question": "Which river is the largest by discharge volume?",
+      "answer": "Amazon River",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the capital of Kazakhstan?",
+      "answer": "Nur-Sultan",
+      "difficulty": 3
+    },
+    {
+      "question": "Which country is the largest landlocked country in the world?",
+      "answer": "Kazakhstan",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the northernmost capital city in the world?",
+      "answer": "Reykjavik",
+      "difficulty": 3
+    },
+    {
+      "question": "Which mountain range is known as the 'Roof of the World'?",
+      "answer": "Himalayas",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the deepest point in the Atlantic Ocean?",
+      "answer": "Puerto Rico Trench",
+      "difficulty": 3
+    },
+    {
+      "question": "Which country is the world's largest island country?",
+      "answer": "Indonesia",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the capital of Peru?",
+      "answer": "Lima",
+      "difficulty": 3
+    },
+    {
+      "question": "Which lake is the oldest in North America?",
+      "answer": "Lake Tahoe",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the only sea without any coasts?",
+      "answer": "Sargasso Sea",
+      "difficulty": 3
+    },
+    {
+      "question": "Which country has the most pyramids?",
+      "answer": "Sudan",
+      "difficulty": 3
+    },
+    {
+      "question": "What is the largest hot desert in the world?",
+      "answer": "Sahara Desert",
+      "difficulty": 3
+    },
+    {
+      "question": "Which river is known as the cradle of ancient civilization?",
+      "answer": "Tigris-Euphrates",
+      "difficulty": 3
+    }
+        
+  ],
+
+
+
+
+
+
+
+
+
+  "Objects": [
+    {
+      "question": "What do you use to purify water?",
+      "answer": "water filter",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to measure temperature?",
+      "answer": "thermometer",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to cut vegetables?",
+      "answer": "knife",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to observe distant celestial objects?",
+      "answer": "telescope",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to extinguish a fire?",
+      "answer": "fire extinguisher",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to record sound?",
+      "answer": "microphone",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to store food at low temperatures?",
+      "answer": "refrigerator",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to transmit radio signals?",
+      "answer": "transmitter",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to cut hair?",
+      "answer": "scissors",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to capture images in low light?",
+      "answer": "night vision camera",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to mend clothes?",
+      "answer": "sewing machine",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to amplify sound?",
+      "answer": "speaker",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to measure distance traveled?",
+      "answer": "odometer",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to measure weight?",
+      "answer": "scale",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to grind coffee beans?",
+      "answer": "coffee grinder",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to write on a touchscreen?",
+      "answer": "stylus",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to measure blood pressure?",
+      "answer": "sphygmomanometer",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to cut metal?",
+      "answer": "angle grinder",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to create music?",
+      "answer": "musical instrument",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to perform eye surgery?",
+      "answer": "laser",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to scan documents?",
+      "answer": "scanner",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to measure light intensity?",
+      "answer": "light meter",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to navigate on a ship?",
+      "answer": "nautical chart",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to measure sound intensity?",
+      "answer": "decibel meter",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to mix ingredients in cooking?",
+      "answer": "mixing bowl",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to clean a car?",
+      "answer": "car wash",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to measure electricity usage?",
+      "answer": "wattmeter",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to fix a bicycle tire?",
+      "answer": "bike pump",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to measure humidity?",
+      "answer": "hygrometer",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to measure angles?",
+      "answer": "protractor",
+      "difficulty": 3
+    },
+    {
+      "question": "What do you use to navigate on foot?",
+      "answer": "compass",
+      "difficulty": 3
+    }
+  ],
+
+
+
+
+
+
+
+
+
+
+
+
+"Animals": [
+  {
+    "question": "Which animal is known for its ability to mimic its environment's color and pattern?",
+    "answer": "cuttlefish",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the largest lizard in the world?",
+    "answer": "Komodo dragon",
+    "difficulty": 3
+  },
+  {
+    "question": "Which animal has the longest migration journey?",
+    "answer": "Arctic tern",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the only mammal capable of sustained flight?",
+    "answer": "bat",
+    "difficulty": 3
+  },
+  {
+    "question": "Which animal has the largest brain?",
+    "answer": "sperm whale",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the world's largest living primate?",
+    "answer": "gorilla",
+    "difficulty": 3
+  },
+  {
+    "question": "Which animal can regrow its limbs?",
+    "answer": "starfish",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the fastest marine animal?",
+    "answer": "sailfish",
+    "difficulty": 3
+  },
+  {
+    "question": "Which animal has the most teeth?",
+    "answer": "snail",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the largest species of bear?",
+    "answer": "polar bear",
+    "difficulty": 3
+  },
+  {
+    "question": "Which animal has the longest lifespan?",
+    "answer": "greenland shark",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the only mammal that can't jump?",
+    "answer": "elephant",
+    "difficulty": 3
+  },
+  {
+    "question": "Which animal is known for its exceptional memory?",
+    "answer": "elephant",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the slowest mammal?",
+    "answer": "sloth",
+    "difficulty": 3
+  },
+  {
+    "question": "Which animal is known for its ability to change gender?",
+    "answer": "parrotfish",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the most venomous fish in the world?",
+    "answer": "stonefish",
+    "difficulty": 3
+  },
+  {
+    "question": "Which bird can sleep while flying?",
+    "answer": "swift",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the largest living fish?",
+    "answer": "whale shark",
+    "difficulty": 3
+  },
+  {
+    "question": "Which animal has the longest tongue relative to its body size?",
+    "answer": "chameleon",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the largest rodent in the world?",
+    "answer": "capybara",
+    "difficulty": 3
+  },
+  {
+    "question": "Which animal has the longest migration?",
+    "answer": "Monarch butterfly",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the world's fastest land animal?",
+    "answer": "cheetah",
+    "difficulty": 3
+  },
+  {
+    "question": "Which animal has the best sense of smell?",
+    "answer": "bear",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the largest bird of prey?",
+    "answer": "Andean condor",
+    "difficulty": 3
+  },
+  {
+    "question": "Which animal can produce the loudest sound?",
+    "answer": "blue whale",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the largest living species of tortoise?",
+    "answer": "Galapagos tortoise",
+    "difficulty": 3
+  },
+  {
+    "question": "Which animal has the highest blood pressure?",
+    "answer": "giraffe",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the most venomous snake in the world?",
+    "answer": "inland taipan",
+    "difficulty": 3
+  },
+  {
+    "question": "Which animal has the strongest bite?",
+    "answer": "saltwater crocodile",
+    "difficulty": 3
+  },
+  {
+    "question": "What is the only mammal capable of true sustained flight?",
+    "answer": "bat",
+    "difficulty": 3
+  },
+  {
+    "question": "Which animal has the largest heart?",
+    "answer": "blue whale",
+    "difficulty": 3
+  }  
+  ]
+}
+
