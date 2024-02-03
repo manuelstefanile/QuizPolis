@@ -1,4 +1,4 @@
-#QuizPolis
+# QuizPolis
 
 Il gioco è sviluppato in Unity per un ambiente VR. Questo è basato sul gioco da tavolo monopoli ed ha lo scopo
 di testare la conoscenza dell'inglese e di apprendere nuovi concetti.
