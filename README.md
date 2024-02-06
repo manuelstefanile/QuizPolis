@@ -2,7 +2,7 @@
 
 Il gioco è sviluppato in Unity per un ambiente VR. Questo è basato sul gioco da tavolo monopoli ed ha lo scopo
 di testare la conoscenza dell'inglese e di apprendere nuovi concetti.
-Il gioco inizia su una plancia da gioco, dopo aver scelto una pedina
+Il gioco inizia su una plancia da gioco, dopo aver scelto una pedina.
 
 ![general](https://github.com/manuelstefanile/QuizPolis/assets/114852292/90306b44-8d31-4efa-825e-ddb57f30bf00)
 
